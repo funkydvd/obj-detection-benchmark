@@ -1,0 +1,913 @@
+file: poli
+IoU = 0.05
+falseP1 = 67
+falseP2 = 2332
+recall for class 100 is 0.0
+recall for class 150 is 0.0
+recall for class 200 is 0.0
+recall for class 250 is 0.0
+recall for class 300 is 0.0009633911368015414
+recall for class 400 is 0.005652911249293386
+recall for class 500 is 0.2738301559792028
+recall for class 600 is 0.01750700280112045
+recall for class 700 is 0.028481012658227847
+recall for class 800 is 0.06427221172022685
+recall for class 900 is 0.1509375960651706
+recall for class 1000 is 0.0679304897314376
+recall for class 1300 is 0.35406885758998435
+recall for class 1600 is 0.2910977607864555
+recall for class 2000 is 0.462671905697446
+recall for class 3000 is 0.6069364161849711
+recall for class 4000 is 0.6656891495601173
+recall for class 5000 is 0.7795575896262396
+recall for class 7000 is 0.8491537895511405
+recall for class 10000 is 0.9129032258064517
+recall for class 20000 is 0.8484549638395792
+recall for class 30000 is 0.9267563527653214
+recall for class 1000000 is 0.14879592769040006
+precision for class 300 is 1.0
+precision for class 400 is 1.0
+precision for class 500 is 1.0
+precision for class 600 is 1.0
+precision for class 700 is 1.0
+precision for class 800 is 0.4533333333333333
+precision for class 900 is 0.4178723404255319
+precision for class 1000 is 0.5119047619047619
+precision for class 1300 is 0.7292506043513296
+precision for class 1600 is 0.7321428571428571
+precision for class 2000 is 0.785
+precision for class 3000 is 0.8845391476709613
+precision for class 4000 is 0.925990675990676
+precision for class 5000 is 0.9232158988256549
+precision for class 7000 is 0.8904320987654321
+precision for class 10000 is 0.9471218206157965
+precision for class 20000 is 0.9562801037421267
+precision for class 30000 is 0.985691573926868
+precision for class 1000000 is 0.9969392216878006
+trueP: 16454
+falseP: 2399
+falseN: 39186
+recall = 0.29572250179726817
+precission = 0.8727523471065612
+average prediction error: 1018.6935807404232
+file: poli
+IoU = 0.1
+falseP1 = 93
+falseP2 = 4063
+recall for class 100 is 0.0
+recall for class 150 is 0.0
+recall for class 200 is 0.0
+recall for class 250 is 0.0
+recall for class 300 is 0.0
+recall for class 400 is 0.0008479366873940079
+recall for class 500 is 0.2608318890814558
+recall for class 600 is 0.004901960784313725
+recall for class 700 is 0.01708860759493671
+recall for class 800 is 0.05860113421550094
+recall for class 900 is 0.018751921303412234
+recall for class 1000 is 0.015402843601895734
+recall for class 1300 is 0.10446009389671361
+recall for class 1600 is 0.1922446750409612
+recall for class 2000 is 0.3290766208251473
+recall for class 3000 is 0.5532131927915674
+recall for class 4000 is 0.6535400083787181
+recall for class 5000 is 0.7673531655225019
+recall for class 7000 is 0.8543046357615894
+recall for class 10000 is 0.9348387096774193
+recall for class 20000 is 0.8570019723865878
+recall for class 30000 is 0.9304932735426009
+recall for class 1000000 is 0.14879592769040006
+precision for class 400 is 1.0
+precision for class 500 is 1.0
+precision for class 600 is 1.0
+precision for class 700 is 1.0
+precision for class 800 is 0.08869814020028613
+precision for class 900 is 0.05530371713508613
+precision for class 1000 is 0.09873417721518987
+precision for class 1300 is 0.2996632996632997
+precision for class 1600 is 0.5474339035769828
+precision for class 2000 is 0.6014362657091562
+precision for class 3000 is 0.831799591002045
+precision for class 4000 is 0.9117475160724723
+precision for class 5000 is 0.9137148047229791
+precision for class 7000 is 0.8828897338403042
+precision for class 10000 is 0.9439739413680782
+precision for class 20000 is 0.952154857560263
+precision for class 30000 is 0.9795436664044059
+precision for class 1000000 is 0.9947643979057592
+trueP: 14697
+falseP: 4156
+falseN: 40943
+recall = 0.26414450035945364
+precission = 0.7795576300853976
+average prediction error: 2148.594646827367
+file: poli
+IoU = 0.15000000000000002
+falseP1 = 113
+falseP2 = 4944
+recall for class 100 is 0.0
+recall for class 150 is 0.0
+recall for class 200 is 0.0
+recall for class 250 is 0.0
+recall for class 300 is 0.0
+recall for class 400 is 0.0
+recall for class 500 is 0.05415944540727903
+recall for class 600 is 0.0021008403361344537
+recall for class 700 is 0.005063291139240506
+recall for class 800 is 0.03780718336483932
+recall for class 900 is 0.01567783584383646
+recall for class 1000 is 0.011058451816745656
+recall for class 1300 is 0.03482003129890454
+recall for class 1600 is 0.1316220644456581
+recall for class 2000 is 0.25147347740667975
+recall for class 3000 is 0.4620877252635158
+recall for class 4000 is 0.7331378299120235
+recall for class 5000 is 0.8451563691838292
+recall for class 7000 is 0.8447387785136129
+recall for class 10000 is 0.9258064516129032
+recall for class 20000 is 0.8576594345825115
+recall for class 30000 is 0.9349775784753364
+recall for class 1000000 is 0.1492527572929583
+precision for class 500 is 1.0
+precision for class 600 is 1.0
+precision for class 700 is 1.0
+precision for class 800 is 0.05891016200294551
+precision for class 900 is 0.04407951598962835
+precision for class 1000 is 0.06263982102908278
+precision for class 1300 is 0.10022522522522523
+precision for class 1600 is 0.3433048433048433
+precision for class 2000 is 0.378698224852071
+precision for class 3000 is 0.7369848156182213
+precision for class 4000 is 0.9062661833247022
+precision for class 5000 is 0.9081967213114754
+precision for class 7000 is 0.875
+precision for class 10000 is 0.9391361256544503
+precision for class 20000 is 0.950109249817917
+precision for class 30000 is 0.97734375
+precision for class 1000000 is 0.994780339277947
+trueP: 13791
+falseP: 5057
+falseN: 41849
+recall = 0.2478612508986341
+precission = 0.7316956706281834
+average prediction error: 3270.615187259341
+file: poli
+IoU = 0.2
+falseP1 = 134
+falseP2 = 6016
+recall for class 100 is 0.0
+recall for class 150 is 0.0
+recall for class 200 is 0.0
+recall for class 250 is 0.0
+recall for class 300 is 0.0
+recall for class 400 is 0.0
+recall for class 500 is 0.0
+recall for class 600 is 0.00035014005602240897
+recall for class 700 is 0.004430379746835443
+recall for class 800 is 0.026465028355387523
+recall for class 900 is 0.01168152474638795
+recall for class 1000 is 0.009873617693522907
+recall for class 1300 is 0.028560250391236306
+recall for class 1600 is 0.07154560349535773
+recall for class 2000 is 0.15520628683693516
+recall for class 3000 is 0.31689901394083647
+recall for class 4000 is 0.7042312526183494
+recall for class 5000 is 0.7940503432494279
+recall for class 7000 is 0.8027961736571008
+recall for class 10000 is 0.9058064516129032
+recall for class 20000 is 0.8376068376068376
+recall for class 30000 is 0.9342301943198804
+recall for class 1000000 is 0.14938328003654636
+precision for class 600 is 1.0
+precision for class 700 is 1.0
+precision for class 800 is 0.041916167664670656
+precision for class 900 is 0.0328719723183391
+precision for class 1000 is 0.05387931034482758
+precision for class 1300 is 0.07344064386317907
+precision for class 1600 is 0.1893063583815029
+precision for class 2000 is 0.21122994652406418
+precision for class 3000 is 0.49786324786324787
+precision for class 4000 is 0.8696326952922918
+precision for class 5000 is 0.8653366583541147
+precision for class 7000 is 0.8424710424710424
+precision for class 10000 is 0.9116883116883117
+precision for class 20000 is 0.9468599033816425
+precision for class 30000 is 0.975800156128025
+precision for class 1000000 is 0.9943527367506516
+trueP: 12697
+falseP: 6150
+falseN: 42943
+recall = 0.22819913731128685
+precission = 0.6736881201252188
+average prediction error: 4542.779900058217
+file: poli
+IoU = 0.25
+falseP1 = 181
+falseP2 = 7504
+recall for class 100 is 0.0
+recall for class 150 is 0.0
+recall for class 200 is 0.0
+recall for class 250 is 0.0
+recall for class 300 is 0.0
+recall for class 400 is 0.0
+recall for class 500 is 0.0
+recall for class 600 is 0.0
+recall for class 700 is 0.0031645569620253164
+recall for class 800 is 0.017958412098298678
+recall for class 900 is 0.005533353827236397
+recall for class 1000 is 0.004739336492890996
+recall for class 1300 is 0.01995305164319249
+recall for class 1600 is 0.05406881485527035
+recall for class 2000 is 0.1237721021611002
+recall for class 3000 is 0.19823189391363483
+recall for class 4000 is 0.40594888981985755
+recall for class 5000 is 0.6849733028222731
+recall for class 7000 is 0.7557027225901398
+recall for class 10000 is 0.8709677419354839
+recall for class 20000 is 0.8113083497698882
+recall for class 30000 is 0.9289985052316891
+recall for class 1000000 is 0.1494485414083404
+precision for class 700 is 1.0
+precision for class 800 is 0.028744326777609682
+precision for class 900 is 0.015693112467306015
+precision for class 1000 is 0.026200873362445413
+precision for class 1300 is 0.049902152641878667
+precision for class 1600 is 0.14082503556187767
+precision for class 2000 is 0.15328467153284672
+precision for class 3000 is 0.2527091460771565
+precision for class 4000 is 0.6345776031434185
+precision for class 5000 is 0.8046594982078853
+precision for class 7000 is 0.7893927747886241
+precision for class 10000 is 0.8840864440078585
+precision for class 20000 is 0.9278195488721804
+precision for class 30000 is 0.97109375
+precision for class 1000000 is 0.9926311226701344
+trueP: 11158
+falseP: 7685
+falseN: 44482
+recall = 0.2005391804457225
+precission = 0.5921562383909144
+average prediction error: 6165.516214229884
+file: poli
+IoU = 0.30000000000000004
+falseP1 = 269
+falseP2 = 9122
+recall for class 100 is 0.0
+recall for class 150 is 0.0
+recall for class 200 is 0.0
+recall for class 250 is 0.0
+recall for class 300 is 0.0
+recall for class 400 is 0.0
+recall for class 500 is 0.0
+recall for class 600 is 0.0
+recall for class 700 is 0.0031645569620253164
+recall for class 800 is 0.011342155009451797
+recall for class 900 is 0.003074085459575776
+recall for class 1000 is 0.002764612954186414
+recall for class 1300 is 0.012910798122065728
+recall for class 1600 is 0.03932277444019661
+recall for class 2000 is 0.09332023575638507
+recall for class 3000 is 0.13906834410064603
+recall for class 4000 is 0.14285714285714285
+recall for class 5000 is 0.47368421052631576
+recall for class 7000 is 0.5629139072847682
+recall for class 10000 is 0.8064516129032258
+recall for class 20000 is 0.7725180802103879
+recall for class 30000 is 0.9043348281016442
+recall for class 1000000 is 0.14827383671604777
+precision for class 700 is 1.0
+precision for class 800 is 0.01834862385321101
+precision for class 900 is 0.008726003490401396
+precision for class 1000 is 0.01511879049676026
+precision for class 1300 is 0.03197674418604651
+precision for class 1600 is 0.0995850622406639
+precision for class 2000 is 0.11202830188679246
+precision for class 3000 is 0.15474839197881196
+precision for class 4000 is 0.2404795486600846
+precision for class 5000 is 0.5908658420551856
+precision for class 7000 is 0.6716417910447762
+precision for class 10000 is 0.8445945945945946
+precision for class 20000 is 0.8854559155990958
+precision for class 30000 is 0.9445745511319282
+precision for class 1000000 is 0.9852558542931483
+trueP: 9452
+falseP: 9391
+falseN: 46188
+recall = 0.16987778576563622
+precission = 0.5016186382210901
+average prediction error: 8285.305742026869
+file: poli
+IoU = 0.35000000000000003
+falseP1 = 401
+falseP2 = 10599
+recall for class 100 is 0.0
+recall for class 150 is 0.0
+recall for class 200 is 0.0
+recall for class 250 is 0.0
+recall for class 300 is 0.0
+recall for class 400 is 0.0
+recall for class 500 is 0.0
+recall for class 600 is 0.0
+recall for class 700 is 0.0012658227848101266
+recall for class 800 is 0.010396975425330813
+recall for class 900 is 0.0003074085459575776
+recall for class 1000 is 0.002764612954186414
+recall for class 1300 is 0.00782472613458529
+recall for class 1600 is 0.02785363189513927
+recall for class 2000 is 0.07072691552062868
+recall for class 3000 is 0.10472628357701462
+recall for class 4000 is 0.07792207792207792
+recall for class 5000 is 0.17238749046529367
+recall for class 7000 is 0.28108903605592345
+recall for class 10000 is 0.6264516129032258
+recall for class 20000 is 0.7189349112426036
+recall for class 30000 is 0.8721973094170403
+recall for class 1000000 is 0.14696860928016706
+precision for class 700 is 1.0
+precision for class 800 is 0.016845329249617153
+precision for class 900 is 0.0008748906386701663
+precision for class 1000 is 0.014893617021276596
+precision for class 1300 is 0.01893939393939394
+precision for class 1600 is 0.06772908366533864
+precision for class 2000 is 0.08352668213457076
+precision for class 3000 is 0.10780539026951348
+precision for class 4000 is 0.12236842105263158
+precision for class 5000 is 0.2562358276643991
+precision for class 7000 is 0.37635467980295567
+precision for class 10000 is 0.698058950395399
+precision for class 20000 is 0.8318752377329783
+precision for class 30000 is 0.8935681470137825
+precision for class 1000000 is 0.9774305555555556
+trueP: 7843
+falseP: 11000
+falseN: 47797
+recall = 0.14095974119338606
+precission = 0.4162288382953882
+average prediction error: 10994.237922768574
+file: poli
+IoU = 0.4
+falseP1 = 474
+falseP2 = 11890
+recall for class 100 is 0.0
+recall for class 150 is 0.0
+recall for class 200 is 0.0
+recall for class 250 is 0.0
+recall for class 300 is 0.0
+recall for class 400 is 0.0
+recall for class 500 is 0.0
+recall for class 600 is 0.0
+recall for class 700 is 0.0006329113924050633
+recall for class 800 is 0.007561436672967864
+recall for class 900 is 0.0
+recall for class 1000 is 0.001184834123222749
+recall for class 1300 is 0.005477308294209703
+recall for class 1600 is 0.016384489350081924
+recall for class 2000 is 0.06483300589390963
+recall for class 3000 is 0.07786467188031282
+recall for class 4000 is 0.05362379555927943
+recall for class 5000 is 0.08543096872616324
+recall for class 7000 is 0.12067696835908756
+recall for class 10000 is 0.29419354838709677
+recall for class 20000 is 0.6505588428665352
+recall for class 30000 is 0.7937219730941704
+recall for class 1000000 is 0.1453370749853162
+precision for class 700 is 1.0
+precision for class 800 is 0.012307692307692308
+precision for class 900 is 0.0
+precision for class 1000 is 0.006396588486140725
+precision for class 1300 is 0.013023255813953489
+precision for class 1600 is 0.039525691699604744
+precision for class 2000 is 0.0744920993227991
+precision for class 3000 is 0.07893829713891762
+precision for class 4000 is 0.08387942332896461
+precision for class 5000 is 0.12933025404157045
+precision for class 7000 is 0.15213358070500926
+precision for class 10000 is 0.35877261998426435
+precision for class 20000 is 0.7428678678678678
+precision for class 30000 is 0.8509615384615384
+precision for class 1000000 is 0.9665798611111112
+trueP: 6479
+falseP: 12364
+falseN: 49161
+recall = 0.1164450035945363
+precission = 0.34384121424401637
+average prediction error: 14334.62923079695
+file: poli
+IoU = 0.45
+falseP1 = 575
+falseP2 = 12852
+recall for class 100 is 0.0
+recall for class 150 is 0.0
+recall for class 200 is 0.0
+recall for class 250 is 0.0
+recall for class 300 is 0.0
+recall for class 400 is 0.0
+recall for class 500 is 0.0
+recall for class 600 is 0.0
+recall for class 700 is 0.0
+recall for class 800 is 0.000945179584120983
+recall for class 900 is 0.0
+recall for class 1000 is 0.00039494470774091627
+recall for class 1300 is 0.0011737089201877935
+recall for class 1600 is 0.006007646095030038
+recall for class 2000 is 0.04518664047151277
+recall for class 3000 is 0.059503570214212854
+recall for class 4000 is 0.028068705488060328
+recall for class 5000 is 0.06254767353165523
+recall for class 7000 is 0.06769683590875644
+recall for class 10000 is 0.1406451612903226
+recall for class 20000 is 0.5332018408941486
+recall for class 30000 is 0.7077727952167414
+recall for class 1000000 is 0.14037721072896953
+precision for class 800 is 0.0015552099533437014
+precision for class 900 is 0.0
+precision for class 1000 is 0.0021008403361344537
+precision for class 1300 is 0.0027829313543599257
+precision for class 1600 is 0.014397905759162303
+precision for class 2000 is 0.0519774011299435
+precision for class 3000 is 0.059972583961617545
+precision for class 4000 is 0.04460719041278296
+precision for class 5000 is 0.09265536723163842
+precision for class 7000 is 0.07876712328767123
+precision for class 10000 is 0.15831517792302105
+precision for class 20000 is 0.65114411882778
+precision for class 30000 is 0.7839403973509934
+precision for class 1000000 is 0.9339991315675207
+trueP: 5416
+falseP: 13427
+falseN: 50224
+recall = 0.09734004313443566
+precission = 0.28742769198110707
+average prediction error: 18205.054447265888
+file: poli
+IoU = 0.5
+falseP1 = 720
+falseP2 = 14312
+recall for class 100 is 0.0
+recall for class 150 is 0.0
+recall for class 200 is 0.0
+recall for class 250 is 0.0
+recall for class 300 is 0.0
+recall for class 400 is 0.0
+recall for class 500 is 0.0
+recall for class 600 is 0.0
+recall for class 700 is 0.0
+recall for class 800 is 0.0
+recall for class 900 is 0.0
+recall for class 1000 is 0.0
+recall for class 1300 is 0.0
+recall for class 1600 is 0.0010922992900054614
+recall for class 2000 is 0.0275049115913556
+recall for class 3000 is 0.03468208092485549
+recall for class 4000 is 0.019689987431922917
+recall for class 5000 is 0.04576659038901602
+recall for class 7000 is 0.04562178072111847
+recall for class 10000 is 0.06838709677419355
+recall for class 20000 is 0.2176199868507561
+recall for class 30000 is 0.5597907324364724
+recall for class 1000000 is 0.13006591398551198
+precision for class 800 is 0.0
+precision for class 900 is 0.0
+precision for class 1000 is 0.0
+precision for class 1300 is 0.0
+precision for class 1600 is 0.00261437908496732
+precision for class 2000 is 0.031818181818181815
+precision for class 3000 is 0.035208836727649295
+precision for class 4000 is 0.031105228325612178
+precision for class 5000 is 0.06749156355455568
+precision for class 7000 is 0.05115511551155116
+precision for class 10000 is 0.06691919191919192
+precision for class 20000 is 0.2867042009527934
+precision for class 30000 is 0.661660777385159
+precision for class 1000000 is 0.8623972306360883
+trueP: 3811
+falseP: 15032
+falseN: 51829
+recall = 0.06849388928828182
+precission = 0.20225017247784324
+average prediction error: 26997.44446184851
+file: poli
+IoU = 0.55
+falseP1 = 890
+falseP2 = 15166
+recall for class 100 is 0.0
+recall for class 150 is 0.0
+recall for class 200 is 0.0
+recall for class 250 is 0.0
+recall for class 300 is 0.0
+recall for class 400 is 0.0
+recall for class 500 is 0.0
+recall for class 600 is 0.0
+recall for class 700 is 0.0
+recall for class 800 is 0.0
+recall for class 900 is 0.0
+recall for class 1000 is 0.0
+recall for class 1300 is 0.0
+recall for class 1600 is 0.0
+recall for class 2000 is 0.0068762278978389
+recall for class 3000 is 0.015980958857531452
+recall for class 4000 is 0.010473397570171765
+recall for class 5000 is 0.02745995423340961
+recall for class 7000 is 0.01692420897718911
+recall for class 10000 is 0.02903225806451613
+recall for class 20000 is 0.12557527942143326
+recall for class 30000 is 0.40433482810164423
+recall for class 1000000 is 0.10970436598577302
+precision for class 800 is 0.0
+precision for class 900 is 0.0
+precision for class 1000 is 0.0
+precision for class 1300 is 0.0
+precision for class 1600 is 0.0
+precision for class 2000 is 0.007927519818799546
+precision for class 3000 is 0.01625172890733057
+precision for class 4000 is 0.016469038208168644
+precision for class 5000 is 0.03995560488346282
+precision for class 7000 is 0.018806214227309895
+precision for class 10000 is 0.026913875598086126
+precision for class 20000 is 0.17061188030370703
+precision for class 30000 is 0.4936131386861314
+precision for class 1000000 is 0.7318241184153244
+trueP: 2787
+falseP: 16056
+falseN: 52853
+recall = 0.050089863407620415
+precission = 0.14790638433370482
+average prediction error: 38045.139038789755
+file: poli
+IoU = 0.6000000000000001
+falseP1 = 1140
+falseP2 = 15948
+recall for class 100 is 0.0
+recall for class 150 is 0.0
+recall for class 200 is 0.0
+recall for class 250 is 0.0
+recall for class 300 is 0.0
+recall for class 400 is 0.0
+recall for class 500 is 0.0
+recall for class 600 is 0.0
+recall for class 700 is 0.0
+recall for class 800 is 0.0
+recall for class 900 is 0.0
+recall for class 1000 is 0.0
+recall for class 1300 is 0.0
+recall for class 1600 is 0.0
+recall for class 2000 is 0.0
+recall for class 3000 is 0.003060183611016661
+recall for class 4000 is 0.005027230833682447
+recall for class 5000 is 0.010678871090770405
+recall for class 7000 is 0.010301692420897719
+recall for class 10000 is 0.0064516129032258064
+recall for class 20000 is 0.049967126890203814
+recall for class 30000 is 0.2406576980568012
+recall for class 1000000 is 0.07968413496051686
+precision for class 800 is 0.0
+precision for class 900 is 0.0
+precision for class 1000 is 0.0
+precision for class 1300 is 0.0
+precision for class 1600 is 0.0
+precision for class 2000 is 0.0
+precision for class 3000 is 0.003122831367106176
+precision for class 4000 is 0.007858546168958742
+precision for class 5000 is 0.015503875968992248
+precision for class 7000 is 0.0113544201135442
+precision for class 10000 is 0.005917159763313609
+precision for class 20000 is 0.06713780918727916
+precision for class 30000 is 0.30492424242424243
+precision for class 1000000 is 0.5359964881474978
+trueP: 1754
+falseP: 17088
+falseN: 53886
+recall = 0.03152408339324227
+precission = 0.0930899055301985
+average prediction error: 61575.16484384682
+file: poli
+IoU = 0.65
+falseP1 = 1354
+falseP2 = 16567
+recall for class 100 is 0.0
+recall for class 150 is 0.0
+recall for class 200 is 0.0
+recall for class 250 is 0.0
+recall for class 300 is 0.0
+recall for class 400 is 0.0
+recall for class 500 is 0.0
+recall for class 600 is 0.0
+recall for class 700 is 0.0
+recall for class 800 is 0.0
+recall for class 900 is 0.0
+recall for class 1000 is 0.0
+recall for class 1300 is 0.0
+recall for class 1600 is 0.0
+recall for class 2000 is 0.0
+recall for class 3000 is 0.0006800408024481469
+recall for class 4000 is 0.0008378718056137411
+recall for class 5000 is 0.0
+recall for class 7000 is 0.002207505518763797
+recall for class 10000 is 0.0025806451612903226
+recall for class 20000 is 0.015779092702169626
+recall for class 30000 is 0.09715994020926756
+recall for class 1000000 is 0.0477713241532337
+precision for class 800 is 0.0
+precision for class 900 is 0.0
+precision for class 1000 is 0.0
+precision for class 1300 is 0.0
+precision for class 1600 is 0.0
+precision for class 2000 is 0.0
+precision for class 3000 is 0.0006946856547412296
+precision for class 4000 is 0.00130718954248366
+precision for class 5000 is 0.0
+precision for class 7000 is 0.0024311183144246355
+precision for class 10000 is 0.0023584905660377358
+precision for class 20000 is 0.020842379504993486
+precision for class 30000 is 0.12833168805528133
+precision for class 1000000 is 0.32232496697490093
+trueP: 921
+falseP: 17921
+falseN: 54719
+recall = 0.016552839683680806
+precission = 0.04888016134168347
+average prediction error: 118329.37830761493
+file: poli
+IoU = 0.7000000000000001
+falseP1 = 1531
+falseP2 = 16860
+recall for class 100 is 0.0
+recall for class 150 is 0.0
+recall for class 200 is 0.0
+recall for class 250 is 0.0
+recall for class 300 is 0.0
+recall for class 400 is 0.0
+recall for class 500 is 0.0
+recall for class 600 is 0.0
+recall for class 700 is 0.0
+recall for class 800 is 0.0
+recall for class 900 is 0.0
+recall for class 1000 is 0.0
+recall for class 1300 is 0.0
+recall for class 1600 is 0.0
+recall for class 2000 is 0.0
+recall for class 3000 is 0.0
+recall for class 4000 is 0.0
+recall for class 5000 is 0.0
+recall for class 7000 is 0.0014716703458425313
+recall for class 10000 is 0.0012903225806451613
+recall for class 20000 is 0.007889546351084813
+recall for class 30000 is 0.04110612855007474
+recall for class 1000000 is 0.02401618482020492
+precision for class 800 is 0.0
+precision for class 900 is 0.0
+precision for class 1000 is 0.0
+precision for class 1300 is 0.0
+precision for class 1600 is 0.0
+precision for class 2000 is 0.0
+precision for class 3000 is 0.0
+precision for class 4000 is 0.0
+precision for class 5000 is 0.0
+precision for class 7000 is 0.0016220600162206002
+precision for class 10000 is 0.001177856301531213
+precision for class 20000 is 0.010358221838584376
+precision for class 30000 is 0.055055055055055056
+precision for class 1000000 is 0.1621859850154253
+trueP: 451
+falseP: 18391
+falseN: 55189
+recall = 0.008105679367361611
+precission = 0.023935887909988324
+average prediction error: 242258.90023663314
+file: poli
+IoU = 0.75
+falseP1 = 1627
+falseP2 = 17007
+recall for class 100 is 0.0
+recall for class 150 is 0.0
+recall for class 200 is 0.0
+recall for class 250 is 0.0
+recall for class 300 is 0.0
+recall for class 400 is 0.0
+recall for class 500 is 0.0
+recall for class 600 is 0.0
+recall for class 700 is 0.0
+recall for class 800 is 0.0
+recall for class 900 is 0.0
+recall for class 1000 is 0.0
+recall for class 1300 is 0.0
+recall for class 1600 is 0.0
+recall for class 2000 is 0.0
+recall for class 3000 is 0.0
+recall for class 4000 is 0.0
+recall for class 5000 is 0.0
+recall for class 7000 is 0.0
+recall for class 10000 is 0.0006451612903225806
+recall for class 20000 is 0.0026298487836949377
+recall for class 30000 is 0.021674140508221227
+recall for class 1000000 is 0.011094433204985968
+precision for class 800 is 0.0
+precision for class 900 is 0.0
+precision for class 1000 is 0.0
+precision for class 1300 is 0.0
+precision for class 1600 is 0.0
+precision for class 2000 is 0.0
+precision for class 3000 is 0.0
+precision for class 4000 is 0.0
+precision for class 5000 is 0.0
+precision for class 7000 is 0.0
+precision for class 10000 is 0.0005889281507656066
+precision for class 20000 is 0.0034482758620689655
+precision for class 30000 is 0.02902902902902903
+precision for class 1000000 is 0.07502206531332745
+trueP: 208
+falseP: 18634
+falseN: 55432
+recall = 0.003738317757009346
+precission = 0.011039167816579981
+average prediction error: 525635.1109798129
+file: poli
+IoU = 0.8
+falseP1 = 1672
+falseP2 = 17069
+recall for class 100 is 0.0
+recall for class 150 is 0.0
+recall for class 200 is 0.0
+recall for class 250 is 0.0
+recall for class 300 is 0.0
+recall for class 400 is 0.0
+recall for class 500 is 0.0
+recall for class 600 is 0.0
+recall for class 700 is 0.0
+recall for class 800 is 0.0
+recall for class 900 is 0.0
+recall for class 1000 is 0.0
+recall for class 1300 is 0.0
+recall for class 1600 is 0.0
+recall for class 2000 is 0.0
+recall for class 3000 is 0.0
+recall for class 4000 is 0.0
+recall for class 5000 is 0.0
+recall for class 7000 is 0.0
+recall for class 10000 is 0.0
+recall for class 20000 is 0.0009861932938856016
+recall for class 30000 is 0.008968609865470852
+recall for class 1000000 is 0.005612477974287019
+precision for class 800 is 0.0
+precision for class 900 is 0.0
+precision for class 1000 is 0.0
+precision for class 1300 is 0.0
+precision for class 1600 is 0.0
+precision for class 2000 is 0.0
+precision for class 3000 is 0.0
+precision for class 4000 is 0.0
+precision for class 5000 is 0.0
+precision for class 7000 is 0.0
+precision for class 10000 is 0.0
+precision for class 20000 is 0.001289213579716373
+precision for class 30000 is 0.012072434607645875
+precision for class 1000000 is 0.037985865724381625
+trueP: 101
+falseP: 18741
+falseN: 55539
+recall = 0.0018152408339324228
+precission = 0.005360365141704702
+average prediction error: 1082745.5904333566
+file: poli
+IoU = 0.8500000000000001
+falseP1 = 1690
+falseP2 = 17092
+recall for class 100 is 0.0
+recall for class 150 is 0.0
+recall for class 200 is 0.0
+recall for class 250 is 0.0
+recall for class 300 is 0.0
+recall for class 400 is 0.0
+recall for class 500 is 0.0
+recall for class 600 is 0.0
+recall for class 700 is 0.0
+recall for class 800 is 0.0
+recall for class 900 is 0.0
+recall for class 1000 is 0.0
+recall for class 1300 is 0.0
+recall for class 1600 is 0.0
+recall for class 2000 is 0.0
+recall for class 3000 is 0.0
+recall for class 4000 is 0.0
+recall for class 5000 is 0.0
+recall for class 7000 is 0.0
+recall for class 10000 is 0.0
+recall for class 20000 is 0.0006574621959237344
+recall for class 30000 is 0.0029895366218236174
+recall for class 1000000 is 0.003524114076877896
+precision for class 800 is 0.0
+precision for class 900 is 0.0
+precision for class 1000 is 0.0
+precision for class 1300 is 0.0
+precision for class 1600 is 0.0
+precision for class 2000 is 0.0
+precision for class 3000 is 0.0
+precision for class 4000 is 0.0
+precision for class 5000 is 0.0
+precision for class 7000 is 0.0
+precision for class 10000 is 0.0
+precision for class 20000 is 0.000859106529209622
+precision for class 30000 is 0.004032258064516129
+precision for class 1000000 is 0.02384105960264901
+trueP: 60
+falseP: 18782
+falseN: 55580
+recall = 0.0010783608914450035
+precission = 0.0031843753317057637
+average prediction error: 1822838.2257229486
+file: poli
+IoU = 0.9
+falseP1 = 1701
+falseP2 = 17101
+recall for class 100 is 0.0
+recall for class 150 is 0.0
+recall for class 200 is 0.0
+recall for class 250 is 0.0
+recall for class 300 is 0.0
+recall for class 400 is 0.0
+recall for class 500 is 0.0
+recall for class 600 is 0.0
+recall for class 700 is 0.0
+recall for class 800 is 0.0
+recall for class 900 is 0.0
+recall for class 1000 is 0.0
+recall for class 1300 is 0.0
+recall for class 1600 is 0.0
+recall for class 2000 is 0.0
+recall for class 3000 is 0.0
+recall for class 4000 is 0.0
+recall for class 5000 is 0.0
+recall for class 7000 is 0.0
+recall for class 10000 is 0.0
+recall for class 20000 is 0.0
+recall for class 30000 is 0.0
+recall for class 1000000 is 0.0026104548717614043
+precision for class 800 is 0.0
+precision for class 900 is 0.0
+precision for class 1000 is 0.0
+precision for class 1300 is 0.0
+precision for class 1600 is 0.0
+precision for class 2000 is 0.0
+precision for class 3000 is 0.0
+precision for class 4000 is 0.0
+precision for class 5000 is 0.0
+precision for class 7000 is 0.0
+precision for class 10000 is 0.0
+precision for class 20000 is 0.0
+precision for class 30000 is 0.0
+precision for class 1000000 is 0.017660044150110375
+trueP: 40
+falseP: 18802
+falseN: 55600
+recall = 0.0007189072609633358
+precission = 0.0021229168878038425
+average prediction error: 2734504.785476916
+file: poli
+IoU = 0.9500000000000001
+falseP1 = 1731
+falseP2 = 17107
+recall for class 100 is 0.0
+recall for class 150 is 0.0
+recall for class 200 is 0.0
+recall for class 250 is 0.0
+recall for class 300 is 0.0
+recall for class 400 is 0.0
+recall for class 500 is 0.0
+recall for class 600 is 0.0
+recall for class 700 is 0.0
+recall for class 800 is 0.0
+recall for class 900 is 0.0
+recall for class 1000 is 0.0
+recall for class 1300 is 0.0
+recall for class 1600 is 0.0
+recall for class 2000 is 0.0
+recall for class 3000 is 0.0
+recall for class 4000 is 0.0
+recall for class 5000 is 0.0
+recall for class 7000 is 0.0
+recall for class 10000 is 0.0
+recall for class 20000 is 0.0
+recall for class 30000 is 0.0
+recall for class 1000000 is 0.0002610454871761404
+precision for class 800 is 0.0
+precision for class 900 is 0.0
+precision for class 1000 is 0.0
+precision for class 1300 is 0.0
+precision for class 1600 is 0.0
+precision for class 2000 is 0.0
+precision for class 3000 is 0.0
+precision for class 4000 is 0.0
+precision for class 5000 is 0.0
+precision for class 7000 is 0.0
+precision for class 10000 is 0.0
+precision for class 20000 is 0.0
+precision for class 30000 is 0.0
+precision for class 1000000 is 0.0017660044150110375
+trueP: 4
+falseP: 18838
+falseN: 55636
+recall = 7.189072609633358e-05
+precission = 0.00021229168878038424
+average prediction error: 27345067.750847973
+Map = 0.3019446325019931
+Rap = 0.10227780090052593
