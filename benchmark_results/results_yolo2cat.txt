@@ -46,8 +46,8 @@ precision for class 10000 is 0.927608587119321
 precision for class 20000 is 0.9487599694089369
 precision for class 30000 is 0.9551103220897793
 precision for class 1000000 is 0.5807631354382543
-falseP1 = 1097
-falseP2 = 14806
+falseP1 = 735
+falseP2: 15168
 trueP: 103480
 falseP: 15903
 falseN: 74787
@@ -102,8 +102,8 @@ precision for class 10000 is 0.9248434237995825
 precision for class 20000 is 0.9472472262926523
 precision for class 30000 is 0.9537014709428503
 precision for class 1000000 is 0.5883427628477134
-falseP1 = 1120
-falseP2 = 15685
+falseP1 = 621
+falseP2: 16184
 trueP: 102578
 falseP: 16805
 falseN: 75689
@@ -158,8 +158,8 @@ precision for class 10000 is 0.9232936756418284
 precision for class 20000 is 0.9464541181279379
 precision for class 30000 is 0.9536470588235294
 precision for class 1000000 is 0.5908294392523364
-falseP1 = 1140
-falseP2 = 16453
+falseP1 = 556
+falseP2: 17037
 trueP: 101790
 falseP: 17593
 falseN: 76477
@@ -214,8 +214,8 @@ precision for class 10000 is 0.9212149244526673
 precision for class 20000 is 0.9448596243183195
 precision for class 30000 is 0.9530778164924506
 precision for class 1000000 is 0.5913220733838089
-falseP1 = 1174
-falseP2 = 17276
+falseP1 = 492
+falseP2: 17958
 trueP: 100933
 falseP: 18450
 falseN: 77334
@@ -270,8 +270,8 @@ precision for class 10000 is 0.9189312977099237
 precision for class 20000 is 0.9443719248920575
 precision for class 30000 is 0.9525792273883877
 precision for class 1000000 is 0.5916254725210817
-falseP1 = 1201
-falseP2 = 18373
+falseP1 = 436
+falseP2: 19138
 trueP: 99809
 falseP: 19574
 falseN: 78458
@@ -326,8 +326,8 @@ precision for class 10000 is 0.915971484908236
 precision for class 20000 is 0.9438663197918751
 precision for class 30000 is 0.9524469067405356
 precision for class 1000000 is 0.5914559721011334
-falseP1 = 1244
-falseP2 = 19822
+falseP1 = 369
+falseP2: 20697
 trueP: 98317
 falseP: 21066
 falseN: 79950
@@ -382,8 +382,8 @@ precision for class 10000 is 0.9125641800060404
 precision for class 20000 is 0.9423864203694459
 precision for class 30000 is 0.9515905947441217
 precision for class 1000000 is 0.5912366341236635
-falseP1 = 1296
-falseP2 = 21657
+falseP1 = 306
+falseP2: 22647
 trueP: 96430
 falseP: 22953
 falseN: 81837
@@ -438,8 +438,8 @@ precision for class 10000 is 0.9065083421013077
 precision for class 20000 is 0.9397290296871886
 precision for class 30000 is 0.9515682656826568
 precision for class 1000000 is 0.5907030796048809
-falseP1 = 1346
-falseP2 = 24170
+falseP1 = 269
+falseP2: 25247
 trueP: 93867
 falseP: 25516
 falseN: 84400
@@ -494,8 +494,8 @@ precision for class 10000 is 0.9004945301963135
 precision for class 20000 is 0.9364179104477612
 precision for class 30000 is 0.9498845265588914
 precision for class 1000000 is 0.5899715298355703
-falseP1 = 1424
-falseP2 = 27479
+falseP1 = 223
+falseP2: 28680
 trueP: 90480
 falseP: 28903
 falseN: 87787
@@ -550,8 +550,8 @@ precision for class 10000 is 0.891066886128984
 precision for class 20000 is 0.9324310876704149
 precision for class 30000 is 0.9472466450717261
 precision for class 1000000 is 0.5891716045079587
-falseP1 = 1518
-falseP2 = 31616
+falseP1 = 185
+falseP2: 32949
 trueP: 86249
 falseP: 33134
 falseN: 92018
@@ -606,8 +606,8 @@ precision for class 10000 is 0.8780269058295964
 precision for class 20000 is 0.9259333001493281
 precision for class 30000 is 0.9419653179190751
 precision for class 1000000 is 0.5877091078066915
-falseP1 = 1649
-falseP2 = 36593
+falseP1 = 154
+falseP2: 38088
 trueP: 81141
 falseP: 38242
 falseN: 97126
@@ -662,8 +662,8 @@ precision for class 10000 is 0.8595177474913883
 precision for class 20000 is 0.9140780565511748
 precision for class 30000 is 0.9333950046253469
 precision for class 1000000 is 0.5847467472118959
-falseP1 = 1843
-falseP2 = 42426
+falseP1 = 117
+falseP2: 44152
 trueP: 75114
 falseP: 44269
 falseN: 103153
@@ -718,8 +718,8 @@ precision for class 10000 is 0.8253516911104459
 precision for class 20000 is 0.8956131605184446
 precision for class 30000 is 0.9237189891027128
 precision for class 1000000 is 0.5792775002903938
-falseP1 = 2079
-falseP2 = 49194
+falseP1 = 88
+falseP2: 51185
 trueP: 68110
 falseP: 51273
 falseN: 110157
@@ -774,8 +774,8 @@ precision for class 10000 is 0.772972972972973
 precision for class 20000 is 0.8618651707903436
 precision for class 30000 is 0.9028132992327366
 precision for class 1000000 is 0.568210844072913
-falseP1 = 2349
-falseP2 = 57176
+falseP1 = 61
+falseP2: 59464
 trueP: 59858
 falseP: 59525
 falseN: 118409
@@ -830,8 +830,8 @@ precision for class 10000 is 0.6891136947002868
 precision for class 20000 is 0.8032737193088815
 precision for class 30000 is 0.8546091015169195
 precision for class 1000000 is 0.5424574844738522
-falseP1 = 2733
-falseP2 = 66435
+falseP1 = 39
+falseP2: 69129
 trueP: 50215
 falseP: 69168
 falseN: 128052
@@ -886,8 +886,8 @@ precision for class 10000 is 0.5440135426285011
 precision for class 20000 is 0.6858889454915945
 precision for class 30000 is 0.7735982966643009
 precision for class 1000000 is 0.48413112851755147
-falseP1 = 3236
-falseP2 = 77812
+falseP1 = 26
+falseP2: 81022
 trueP: 38335
 falseP: 81048
 falseN: 139932
@@ -942,8 +942,8 @@ precision for class 10000 is 0.32861145703611455
 precision for class 20000 is 0.48024284832270014
 precision for class 30000 is 0.5996182295394894
 precision for class 1000000 is 0.37028644471558886
-falseP1 = 3887
-falseP2 = 91340
+falseP1 = 10
+falseP2: 95217
 trueP: 24156
 falseP: 95227
 falseN: 154111
@@ -998,8 +998,8 @@ precision for class 10000 is 0.11501248439450687
 precision for class 20000 is 0.19856757317832677
 precision for class 30000 is 0.30112145072774993
 precision for class 1000000 is 0.18409871369536115
-falseP1 = 4657
-falseP2 = 105109
+falseP1 = 3
+falseP2: 109763
 trueP: 9617
 falseP: 109766
 falseN: 168650
@@ -1054,16 +1054,16 @@ precision for class 10000 is 0.009979728676126618
 precision for class 20000 is 0.022277743077243388
 precision for class 30000 is 0.04526946107784431
 precision for class 1000000 is 0.025936264247499417
-falseP1 = 5191
-falseP2 = 113071
+falseP1 = 1
+falseP2: 118261
 trueP: 1121
 falseP: 118262
 falseN: 177146
 recall = 0.00628832032849602
 precission = 0.009389946642319258
 average prediction error: 15.5495628557845
-Map = 0.6090966843996566
-Rap = 0.40790381547725724
+MaP = 0.6090966843996566
+MaR = 0.40790381547725724
 file: day_overcast
 IoU = 0.05
 recall for class 100 is 0.20570107858243453
@@ -1112,8 +1112,8 @@ precision for class 10000 is 0.928607853136155
 precision for class 20000 is 0.9468526822786912
 precision for class 30000 is 0.9641418211120064
 precision for class 1000000 is 0.6172089376715014
-falseP1 = 698
-falseP2 = 9720
+falseP1 = 474
+falseP2: 9944
 trueP: 71917
 falseP: 10418
 falseN: 44568
@@ -1168,8 +1168,8 @@ precision for class 10000 is 0.926217412690605
 precision for class 20000 is 0.9465563861937331
 precision for class 30000 is 0.9630484988452656
 precision for class 1000000 is 0.6248698779218321
-falseP1 = 716
-falseP2 = 10311
+falseP1 = 390
+falseP2: 10637
 trueP: 71308
 falseP: 11027
 falseN: 45177
@@ -1224,8 +1224,8 @@ precision for class 10000 is 0.9250299401197605
 precision for class 20000 is 0.9455307262569832
 precision for class 30000 is 0.9633408919123205
 precision for class 1000000 is 0.6280333551953527
-falseP1 = 737
-falseP2 = 10832
+falseP1 = 350
+falseP2: 11219
 trueP: 70766
 falseP: 11569
 falseN: 45719
@@ -1280,8 +1280,8 @@ precision for class 10000 is 0.9235488437942425
 precision for class 20000 is 0.9448867115737906
 precision for class 30000 is 0.9635612321562734
 precision for class 1000000 is 0.628563417141789
-falseP1 = 756
-falseP2 = 11528
+falseP1 = 317
+falseP2: 11967
 trueP: 70051
 falseP: 12284
 falseN: 46434
@@ -1336,8 +1336,8 @@ precision for class 10000 is 0.9210772833723654
 precision for class 20000 is 0.9441400304414003
 precision for class 30000 is 0.9628935532233883
 precision for class 1000000 is 0.6290111940298507
-falseP1 = 778
-falseP2 = 12358
+falseP1 = 262
+falseP2: 12874
 trueP: 69199
 falseP: 13136
 falseN: 47286
@@ -1392,8 +1392,8 @@ precision for class 10000 is 0.9189126394052045
 precision for class 20000 is 0.9437860832573686
 precision for class 30000 is 0.9630459126539753
 precision for class 1000000 is 0.6291149864776648
-falseP1 = 796
-falseP2 = 13425
+falseP1 = 229
+falseP2: 13992
 trueP: 68114
 falseP: 14221
 falseN: 48371
@@ -1448,8 +1448,8 @@ precision for class 10000 is 0.9170912459471978
 precision for class 20000 is 0.9426664644319733
 precision for class 30000 is 0.9631422189128817
 precision for class 1000000 is 0.6289841565703634
-falseP1 = 843
-falseP2 = 14768
+falseP1 = 208
+falseP2: 15403
 trueP: 66724
 falseP: 15611
 falseN: 49761
@@ -1504,8 +1504,8 @@ precision for class 10000 is 0.9122401847575058
 precision for class 20000 is 0.9416931697713161
 precision for class 30000 is 0.9624116114625977
 precision for class 1000000 is 0.6287737607156169
-falseP1 = 905
-falseP2 = 16641
+falseP1 = 164
+falseP2: 17382
 trueP: 64789
 falseP: 17546
 falseN: 51696
@@ -1560,8 +1560,8 @@ precision for class 10000 is 0.9077703481669357
 precision for class 20000 is 0.9392565729827742
 precision for class 30000 is 0.9606094388703085
 precision for class 1000000 is 0.6285527909794054
-falseP1 = 972
-falseP2 = 18980
+falseP1 = 138
+falseP2: 19814
 trueP: 62383
 falseP: 19952
 falseN: 54102
@@ -1616,8 +1616,8 @@ precision for class 10000 is 0.9005283712382265
 precision for class 20000 is 0.9354449472096531
 precision for class 30000 is 0.9576050576422462
 precision for class 1000000 is 0.6278766421317432
-falseP1 = 1064
-falseP2 = 21938
+falseP1 = 107
+falseP2: 22895
 trueP: 59333
 falseP: 23002
 falseN: 57152
@@ -1672,8 +1672,8 @@ precision for class 10000 is 0.8875888965359028
 precision for class 20000 is 0.9291848726834413
 precision for class 30000 is 0.9535315985130112
 precision for class 1000000 is 0.6262466213067387
-falseP1 = 1169
-falseP2 = 25461
+falseP1 = 87
+falseP2: 26543
 trueP: 55705
 falseP: 26630
 falseN: 60780
@@ -1728,8 +1728,8 @@ precision for class 10000 is 0.8705234159779615
 precision for class 20000 is 0.9186169409633097
 precision for class 30000 is 0.9451851851851852
 precision for class 1000000 is 0.6250815850815851
-falseP1 = 1295
-falseP2 = 29687
+falseP1 = 70
+falseP2: 30912
 trueP: 51353
 falseP: 30982
 falseN: 65132
@@ -1784,8 +1784,8 @@ precision for class 10000 is 0.8380444856348471
 precision for class 20000 is 0.8989562849795795
 precision for class 30000 is 0.9359496482784154
 precision for class 1000000 is 0.620516165098295
-falseP1 = 1500
-falseP2 = 34502
+falseP1 = 52
+falseP2: 35950
 trueP: 46333
 falseP: 36002
 falseN: 70152
@@ -1840,8 +1840,8 @@ precision for class 10000 is 0.7917057169634489
 precision for class 20000 is 0.8680935033394049
 precision for class 30000 is 0.9163272861902999
 precision for class 1000000 is 0.6111007636431365
-falseP1 = 1718
-falseP2 = 39982
+falseP1 = 32
+falseP2: 41668
 trueP: 40635
 falseP: 41700
 falseN: 75850
@@ -1896,8 +1896,8 @@ precision for class 10000 is 0.7124198527665637
 precision for class 20000 is 0.8097419453351656
 precision for class 30000 is 0.8760667903525047
 precision for class 1000000 is 0.5846755423144958
-falseP1 = 2013
-falseP2 = 46332
+falseP1 = 21
+falseP2: 48324
 trueP: 33990
 falseP: 48345
 falseN: 82495
@@ -1952,8 +1952,8 @@ precision for class 10000 is 0.5731618539189517
 precision for class 20000 is 0.6861538461538461
 precision for class 30000 is 0.7918687057068258
 precision for class 1000000 is 0.5304412586110594
-falseP1 = 2399
-falseP2 = 53812
+falseP1 = 15
+falseP2: 56196
 trueP: 26124
 falseP: 56211
 falseN: 90361
@@ -2008,8 +2008,8 @@ precision for class 10000 is 0.358223523670083
 precision for class 20000 is 0.4883757216414417
 precision for class 30000 is 0.6158765989465764
 precision for class 1000000 is 0.4153458884952452
-falseP1 = 2909
-falseP2 = 62819
+falseP1 = 9
+falseP2: 65719
 trueP: 16607
 falseP: 65728
 falseN: 99878
@@ -2064,8 +2064,8 @@ precision for class 10000 is 0.11843385214007782
 precision for class 20000 is 0.2080642620885179
 precision for class 30000 is 0.3092203898050975
 precision for class 1000000 is 0.21496026180458158
-falseP1 = 3537
-falseP2 = 72075
+falseP1 = 3
+falseP2: 75609
 trueP: 6723
 falseP: 75612
 falseN: 109762
@@ -2120,16 +2120,16 @@ precision for class 10000 is 0.011642008246422508
 precision for class 20000 is 0.024952621604548326
 precision for class 30000 is 0.043461970775571374
 precision for class 1000000 is 0.0313376987839102
-falseP1 = 3963
-falseP2 = 77597
+falseP1 = 0
+falseP2: 81560
 trueP: 775
 falseP: 81560
 falseN: 115710
 recall = 0.006653217152423059
 precission = 0.009412764923786968
 average prediction error: 15.61032072019648
-Map = 0.6090835578653319
-Rap = 0.4305180472751178
+MaP = 0.6090835578653319
+MaR = 0.4305180472751178
 file: day_rain
 IoU = 0.05
 recall for class 100 is 0.21164021164021163
@@ -2178,8 +2178,8 @@ precision for class 10000 is 0.9308333333333333
 precision for class 20000 is 0.9526041666666667
 precision for class 30000 is 0.9634433962264151
 precision for class 1000000 is 0.8121212121212121
-falseP1 = 248
-falseP2 = 2252
+falseP1 = 183
+falseP2: 2317
 trueP: 20170
 falseP: 2500
 falseN: 13379
@@ -2234,8 +2234,8 @@ precision for class 10000 is 0.9259259259259259
 precision for class 20000 is 0.9499494438827099
 precision for class 30000 is 0.9628796400449944
 precision for class 1000000 is 0.8161030595813205
-falseP1 = 262
-falseP2 = 2397
+falseP1 = 166
+falseP2: 2493
 trueP: 20011
 falseP: 2659
 falseN: 13538
@@ -2290,8 +2290,8 @@ precision for class 10000 is 0.9216772151898734
 precision for class 20000 is 0.9465346534653465
 precision for class 30000 is 0.9634551495016611
 precision for class 1000000 is 0.8164817749603803
-falseP1 = 263
-falseP2 = 2541
+falseP1 = 150
+falseP2: 2654
 trueP: 19866
 falseP: 2804
 falseN: 13683
@@ -2346,8 +2346,8 @@ precision for class 10000 is 0.92015503875969
 precision for class 20000 is 0.9455348380765456
 precision for class 30000 is 0.9617903930131004
 precision for class 1000000 is 0.8164296998420221
-falseP1 = 273
-falseP2 = 2697
+falseP1 = 134
+falseP2: 2836
 trueP: 19700
 falseP: 2970
 falseN: 13849
@@ -2402,8 +2402,8 @@ precision for class 10000 is 0.9171826625386997
 precision for class 20000 is 0.944770283479961
 precision for class 30000 is 0.961081081081081
 precision for class 1000000 is 0.8160050409577819
-falseP1 = 283
-falseP2 = 2904
+falseP1 = 122
+falseP2: 3065
 trueP: 19483
 falseP: 3187
 falseN: 14066
@@ -2458,8 +2458,8 @@ precision for class 10000 is 0.9160892994611239
 precision for class 20000 is 0.9409200968523003
 precision for class 30000 is 0.9601293103448276
 precision for class 1000000 is 0.8154911838790933
-falseP1 = 293
-falseP2 = 3173
+falseP1 = 112
+falseP2: 3354
 trueP: 19204
 falseP: 3466
 falseN: 14345
@@ -2514,8 +2514,8 @@ precision for class 10000 is 0.9108378170637971
 precision for class 20000 is 0.9365994236311239
 precision for class 30000 is 0.9600431965442765
 precision for class 1000000 is 0.8153167349511503
-falseP1 = 302
-falseP2 = 3560
+falseP1 = 97
+falseP2: 3765
 trueP: 18808
 falseP: 3862
 falseN: 14741
@@ -2570,8 +2570,8 @@ precision for class 10000 is 0.9035222052067381
 precision for class 20000 is 0.9315134099616859
 precision for class 30000 is 0.9597826086956521
 precision for class 1000000 is 0.8147448015122873
-falseP1 = 316
-falseP2 = 4082
+falseP1 = 77
+falseP2: 4321
 trueP: 18272
 falseP: 4398
 falseN: 15277
@@ -2626,8 +2626,8 @@ precision for class 10000 is 0.8934865900383142
 precision for class 20000 is 0.9269689737470167
 precision for class 30000 is 0.9565217391304348
 precision for class 1000000 is 0.8133669609079445
-falseP1 = 343
-falseP2 = 4688
+falseP1 = 62
+falseP2: 4969
 trueP: 17639
 falseP: 5031
 falseN: 15910
@@ -2682,8 +2682,8 @@ precision for class 10000 is 0.8825324180015256
 precision for class 20000 is 0.9203624225083452
 precision for class 30000 is 0.9542981501632208
 precision for class 1000000 is 0.8121843434343434
-falseP1 = 360
-falseP2 = 5449
+falseP1 = 50
+falseP2: 5759
 trueP: 16861
 falseP: 5809
 falseN: 16688
@@ -2738,8 +2738,8 @@ precision for class 10000 is 0.8610271903323263
 precision for class 20000 is 0.9106545628284759
 precision for class 30000 is 0.9478827361563518
 precision for class 1000000 is 0.810170562223626
-falseP1 = 390
-falseP2 = 6357
+falseP1 = 37
+falseP2: 6710
 trueP: 15923
 falseP: 6747
 falseN: 17626
@@ -2794,8 +2794,8 @@ precision for class 10000 is 0.8296910324039186
 precision for class 20000 is 0.8950882212684788
 precision for class 30000 is 0.9422028353326063
 precision for class 1000000 is 0.8060031595576619
-falseP1 = 424
-falseP2 = 7496
+falseP1 = 26
+falseP2: 7894
 trueP: 14750
 falseP: 7920
 falseN: 18799
@@ -2850,8 +2850,8 @@ precision for class 10000 is 0.7849544072948328
 precision for class 20000 is 0.8714285714285714
 precision for class 30000 is 0.9223194748358862
 precision for class 1000000 is 0.7927215189873418
-falseP1 = 482
-falseP2 = 8880
+falseP1 = 20
+falseP2: 9342
 trueP: 13308
 falseP: 9362
 falseN: 20241
@@ -2906,8 +2906,8 @@ precision for class 10000 is 0.7270676691729323
 precision for class 20000 is 0.8242337164750958
 precision for class 30000 is 0.8909691629955947
 precision for class 1000000 is 0.7745098039215687
-falseP1 = 552
-falseP2 = 10436
+falseP1 = 16
+falseP2: 10972
 trueP: 11682
 falseP: 10988
 falseN: 21867
@@ -2962,8 +2962,8 @@ precision for class 10000 is 0.6131441374159821
 precision for class 20000 is 0.7395079594790159
 precision for class 30000 is 0.8224195338512763
 precision for class 1000000 is 0.7281338806441428
-falseP1 = 663
-falseP2 = 12407
+falseP1 = 14
+falseP2: 13056
 trueP: 9600
 falseP: 13070
 falseN: 23949
@@ -3018,8 +3018,8 @@ precision for class 10000 is 0.4778028592927013
 precision for class 20000 is 0.5997102848865282
 precision for class 30000 is 0.6876404494382022
 precision for class 1000000 is 0.6369668246445498
-falseP1 = 805
-falseP2 = 14686
+falseP1 = 14
+falseP2: 15477
 trueP: 7179
 falseP: 15491
 falseN: 26370
@@ -3074,8 +3074,8 @@ precision for class 10000 is 0.2748671222475323
 precision for class 20000 is 0.40390243902439027
 precision for class 30000 is 0.5176738882554162
 precision for class 1000000 is 0.4790551181102362
-falseP1 = 958
-falseP2 = 17216
+falseP1 = 9
+falseP2: 18165
 trueP: 4496
 falseP: 18174
 falseN: 29053
@@ -3130,8 +3130,8 @@ precision for class 10000 is 0.08307926829268293
 precision for class 20000 is 0.15833333333333333
 precision for class 30000 is 0.24971493728620298
 precision for class 1000000 is 0.22805913809374018
-falseP1 = 1150
-falseP2 = 19759
+falseP1 = 3
+falseP2: 20906
 trueP: 1761
 falseP: 20909
 falseN: 31788
@@ -3186,16 +3186,16 @@ precision for class 10000 is 0.0038284839203675345
 precision for class 20000 is 0.012732615083251714
 precision for class 30000 is 0.0340522133938706
 precision for class 1000000 is 0.027401574803149607
-falseP1 = 1275
-falseP2 = 21219
+falseP1 = 1
+falseP2: 22493
 trueP: 176
 falseP: 22494
 falseN: 33373
 recall = 0.005246058004709529
 precission = 0.007763564181737979
 average prediction error: 17.08332678512197
-Map = 0.6242634597079377
-Rap = 0.42183232381230296
+MaP = 0.6242634597079377
+MaR = 0.42183232381230296
 file: day_snow
 IoU = 0.05
 recall for class 100 is 0.18493150684931506
@@ -3244,8 +3244,8 @@ precision for class 10000 is 0.9208534067446662
 precision for class 20000 is 0.9441215914170764
 precision for class 30000 is 0.9604863221884499
 precision for class 1000000 is 0.711459403905447
-falseP1 = 294
-falseP2 = 3307
+falseP1 = 201
+falseP2: 3400
 trueP: 23005
 falseP: 3601
 falseN: 15202
@@ -3300,8 +3300,8 @@ precision for class 10000 is 0.9188290086493679
 precision for class 20000 is 0.9408973252804141
 precision for class 30000 is 0.9582929194956353
 precision for class 1000000 is 0.7175043327556326
-falseP1 = 306
-falseP2 = 3494
+falseP1 = 179
+falseP2: 3621
 trueP: 22806
 falseP: 3800
 falseN: 15401
@@ -3356,8 +3356,8 @@ precision for class 10000 is 0.916396629941672
 precision for class 20000 is 0.9387494683113569
 precision for class 30000 is 0.9580952380952381
 precision for class 1000000 is 0.7204196145401317
-falseP1 = 310
-falseP2 = 3669
+falseP1 = 157
+falseP2: 3822
 trueP: 22627
 falseP: 3979
 falseN: 15580
@@ -3412,8 +3412,8 @@ precision for class 10000 is 0.9118210862619809
 precision for class 20000 is 0.9378934116659673
 precision for class 30000 is 0.9586077140169332
 precision for class 1000000 is 0.7216019417475729
-falseP1 = 311
-falseP2 = 3860
+falseP1 = 126
+falseP2: 4045
 trueP: 22435
 falseP: 4171
 falseN: 15772
@@ -3468,8 +3468,8 @@ precision for class 10000 is 0.9080532656943564
 precision for class 20000 is 0.9372923588039868
 precision for class 30000 is 0.9588014981273408
 precision for class 1000000 is 0.7220067862336403
-falseP1 = 318
-falseP2 = 4088
+falseP1 = 109
+falseP2: 4297
 trueP: 22200
 falseP: 4406
 falseN: 16007
@@ -3524,8 +3524,8 @@ precision for class 10000 is 0.9035087719298246
 precision for class 20000 is 0.9350971475816453
 precision for class 30000 is 0.9578651685393258
 precision for class 1000000 is 0.721656976744186
-falseP1 = 329
-falseP2 = 4406
+falseP1 = 90
+falseP2: 4645
 trueP: 21871
 falseP: 4735
 falseN: 16336
@@ -3580,8 +3580,8 @@ precision for class 10000 is 0.8973242065961419
 precision for class 20000 is 0.9342105263157895
 precision for class 30000 is 0.9560747663551402
 precision for class 1000000 is 0.7214821990796804
-falseP1 = 346
-falseP2 = 4806
+falseP1 = 74
+falseP2: 5078
 trueP: 21454
 falseP: 5152
 falseN: 16753
@@ -3636,8 +3636,8 @@ precision for class 10000 is 0.8893011750154607
 precision for class 20000 is 0.9322660098522167
 precision for class 30000 is 0.9542056074766355
 precision for class 1000000 is 0.7207949587978671
-falseP1 = 377
-falseP2 = 5332
+falseP1 = 62
+falseP2: 5647
 trueP: 20897
 falseP: 5709
 falseN: 17310
@@ -3692,8 +3692,8 @@ precision for class 10000 is 0.8790669122160835
 precision for class 20000 is 0.9275777414075287
 precision for class 30000 is 0.9513564078578111
 precision for class 1000000 is 0.7196510782650836
-falseP1 = 410
-falseP2 = 6039
+falseP1 = 54
+falseP2: 6395
 trueP: 20157
 falseP: 6449
 falseN: 18050
@@ -3748,8 +3748,8 @@ precision for class 10000 is 0.8691131498470948
 precision for class 20000 is 0.9213759213759214
 precision for class 30000 is 0.9485981308411215
 precision for class 1000000 is 0.7189922480620154
-falseP1 = 458
-falseP2 = 6932
+falseP1 = 45
+falseP2: 7345
 trueP: 19216
 falseP: 7390
 falseN: 18991
@@ -3804,8 +3804,8 @@ precision for class 10000 is 0.8560930802204532
 precision for class 20000 is 0.9122807017543859
 precision for class 30000 is 0.9438202247191011
 precision for class 1000000 is 0.7168441432720233
-falseP1 = 498
-falseP2 = 7890
+falseP1 = 30
+falseP2: 8358
 trueP: 18218
 falseP: 8388
 falseN: 19989
@@ -3860,8 +3860,8 @@ precision for class 10000 is 0.835171568627451
 precision for class 20000 is 0.8994299674267101
 precision for class 30000 is 0.9345794392523364
 precision for class 1000000 is 0.7135945815191098
-falseP1 = 564
-falseP2 = 9121
+falseP1 = 24
+falseP2: 9661
 trueP: 16921
 falseP: 9685
 falseN: 21286
@@ -3916,8 +3916,8 @@ precision for class 10000 is 0.7993846153846154
 precision for class 20000 is 0.8758116883116883
 precision for class 30000 is 0.9174484052532833
 precision for class 1000000 is 0.702004346776141
-falseP1 = 686
-falseP2 = 10578
+falseP1 = 19
+falseP2: 11245
 trueP: 15342
 falseP: 11264
 falseN: 22865
@@ -3972,8 +3972,8 @@ precision for class 10000 is 0.7336217552533992
 precision for class 20000 is 0.8310316815597075
 precision for class 30000 is 0.8905660377358491
 precision for class 1000000 is 0.6860240963855422
-falseP1 = 798
-falseP2 = 12298
+falseP1 = 12
+falseP2: 13084
 trueP: 13510
 falseP: 13096
 falseN: 24697
@@ -4028,8 +4028,8 @@ precision for class 10000 is 0.6401752190237797
 precision for class 20000 is 0.7498988263860785
 precision for class 30000 is 0.8508604206500956
 precision for class 1000000 is 0.6477382098171318
-falseP1 = 936
-falseP2 = 14414
+falseP1 = 6
+falseP2: 15344
 trueP: 11256
 falseP: 15350
 falseN: 26951
@@ -4084,8 +4084,8 @@ precision for class 10000 is 0.5009560229445507
 precision for class 20000 is 0.6188158961881589
 precision for class 30000 is 0.7483189241114313
 precision for class 1000000 is 0.5729417428984112
-falseP1 = 1129
-falseP2 = 16859
+falseP1 = 4
+falseP2: 17984
 trueP: 8618
 falseP: 17988
 falseN: 29589
@@ -4140,8 +4140,8 @@ precision for class 10000 is 0.2825112107623318
 precision for class 20000 is 0.40724165988608624
 precision for class 30000 is 0.5388349514563107
 precision for class 1000000 is 0.4313206639403416
-falseP1 = 1354
-falseP2 = 19877
+falseP1 = 3
+falseP2: 21228
 trueP: 5375
 falseP: 21231
 falseN: 32832
@@ -4196,8 +4196,8 @@ precision for class 10000 is 0.09167204648160103
 precision for class 20000 is 0.16441717791411042
 precision for class 30000 is 0.2543352601156069
 precision for class 1000000 is 0.21304766490129995
-falseP1 = 1600
-falseP2 = 22836
+falseP1 = 1
+falseP2: 24435
 trueP: 2170
 falseP: 24436
 falseN: 36037
@@ -4252,16 +4252,16 @@ precision for class 10000 is 0.0103026400515132
 precision for class 20000 is 0.018760195758564437
 precision for class 30000 is 0.033203125
 precision for class 1000000 is 0.03200192492781521
-falseP1 = 1742
-falseP2 = 24592
+falseP1 = 0
+falseP2: 26334
 trueP: 272
 falseP: 26334
 falseN: 37935
 recall = 0.00711911429842699
 precission = 0.01022325791174923
 average prediction error: 18.73764026844048
-Map = 0.6099732153807806
-Rap = 0.4247637178637697
+MaP = 0.6099732153807806
+MaR = 0.4247637178637697
 file: dusk_sunny
 IoU = 0.05
 recall for class 100 is 0.15769944341372913
@@ -4310,8 +4310,8 @@ precision for class 10000 is 0.9266155531215772
 precision for class 20000 is 0.9547413793103449
 precision for class 30000 is 0.9642276422764228
 precision for class 1000000 is 0.6626672819566221
-falseP1 = 105
-falseP2 = 2075
+falseP1 = 75
+falseP2: 2105
 trueP: 15932
 falseP: 2180
 falseN: 11708
@@ -4366,8 +4366,8 @@ precision for class 10000 is 0.9245283018867925
 precision for class 20000 is 0.9541409993155373
 precision for class 30000 is 0.9640062597809077
 precision for class 1000000 is 0.6687416629613161
-falseP1 = 106
-falseP2 = 2209
+falseP1 = 64
+falseP2: 2251
 trueP: 15797
 falseP: 2315
 falseN: 11843
@@ -4422,8 +4422,8 @@ precision for class 10000 is 0.9214876033057852
 precision for class 20000 is 0.9522849462365591
 precision for class 30000 is 0.9645061728395061
 precision for class 1000000 is 0.6713718570798412
-falseP1 = 109
-falseP2 = 2332
+falseP1 = 57
+falseP2: 2384
 trueP: 15671
 falseP: 2441
 falseN: 11969
@@ -4478,8 +4478,8 @@ precision for class 10000 is 0.9175152749490835
 precision for class 20000 is 0.9507550886408405
 precision for class 30000 is 0.9620637329286799
 precision for class 1000000 is 0.6722393312802464
-falseP1 = 115
-falseP2 = 2476
+falseP1 = 58
+falseP2: 2533
 trueP: 15521
 falseP: 2591
 falseN: 12119
@@ -4534,8 +4534,8 @@ precision for class 10000 is 0.9142280524722503
 precision for class 20000 is 0.9504563233376793
 precision for class 30000 is 0.9607843137254902
 precision for class 1000000 is 0.6723834652594547
-falseP1 = 115
-falseP2 = 2646
+falseP1 = 53
+falseP2: 2708
 trueP: 15351
 falseP: 2761
 falseN: 12289
@@ -4590,8 +4590,8 @@ precision for class 10000 is 0.9144008056394763
 precision for class 20000 is 0.9501295336787565
 precision for class 30000 is 0.9607843137254902
 precision for class 1000000 is 0.6723834652594547
-falseP1 = 120
-falseP2 = 2921
+falseP1 = 45
+falseP2: 2996
 trueP: 15071
 falseP: 3041
 falseN: 12569
@@ -4646,8 +4646,8 @@ precision for class 10000 is 0.9097291875626881
 precision for class 20000 is 0.9470967741935484
 precision for class 30000 is 0.9608433734939759
 precision for class 1000000 is 0.671943711521548
-falseP1 = 126
-falseP2 = 3252
+falseP1 = 36
+falseP2: 3342
 trueP: 14734
 falseP: 3378
 falseN: 12906
@@ -4702,8 +4702,8 @@ precision for class 10000 is 0.9014925373134328
 precision for class 20000 is 0.9458413926499033
 precision for class 30000 is 0.9608433734939759
 precision for class 1000000 is 0.671943711521548
-falseP1 = 133
-falseP2 = 3696
+falseP1 = 30
+falseP2: 3799
 trueP: 14283
 falseP: 3829
 falseN: 13357
@@ -4758,8 +4758,8 @@ precision for class 10000 is 0.8945273631840795
 precision for class 20000 is 0.9418604651162791
 precision for class 30000 is 0.9550224887556222
 precision for class 1000000 is 0.6713594368675759
-falseP1 = 140
-falseP2 = 4201
+falseP1 = 27
+falseP2: 4314
 trueP: 13771
 falseP: 4341
 falseN: 13869
@@ -4814,8 +4814,8 @@ precision for class 10000 is 0.8843873517786561
 precision for class 20000 is 0.9384715025906736
 precision for class 30000 is 0.9535928143712575
 precision for class 1000000 is 0.6698901098901099
-falseP1 = 146
-falseP2 = 4869
+falseP1 = 23
+falseP2: 4992
 trueP: 13097
 falseP: 5015
 falseN: 14543
@@ -4870,8 +4870,8 @@ precision for class 10000 is 0.8729064039408867
 precision for class 20000 is 0.9290826284970722
 precision for class 30000 is 0.9462686567164179
 precision for class 1000000 is 0.6672527472527473
-falseP1 = 164
-falseP2 = 5701
+falseP1 = 20
+falseP2: 5845
 trueP: 12247
 falseP: 5865
 falseN: 15393
@@ -4926,8 +4926,8 @@ precision for class 10000 is 0.854043392504931
 precision for class 20000 is 0.9180221210149642
 precision for class 30000 is 0.9444444444444444
 precision for class 1000000 is 0.6654945054945055
-falseP1 = 181
-falseP2 = 6632
+falseP1 = 16
+falseP2: 6797
 trueP: 11299
 falseP: 6813
 falseN: 16341
@@ -4982,8 +4982,8 @@ precision for class 10000 is 0.8230088495575221
 precision for class 20000 is 0.8965968586387435
 precision for class 30000 is 0.9337349397590361
 precision for class 1000000 is 0.6593406593406593
-falseP1 = 198
-falseP2 = 7718
+falseP1 = 13
+falseP2: 7903
 trueP: 10196
 falseP: 7916
 falseN: 17444
@@ -5038,8 +5038,8 @@ precision for class 10000 is 0.7628267182962246
 precision for class 20000 is 0.8524156187954997
 precision for class 30000 is 0.9115853658536586
 precision for class 1000000 is 0.645458534444932
-falseP1 = 239
-falseP2 = 9005
+falseP1 = 10
+falseP2: 9234
 trueP: 8868
 falseP: 9244
 falseN: 18772
@@ -5094,8 +5094,8 @@ precision for class 10000 is 0.6634522661523626
 precision for class 20000 is 0.7797858099062919
 precision for class 30000 is 0.8573643410852713
 precision for class 1000000 is 0.6132282084975909
-falseP1 = 274
-falseP2 = 10455
+falseP1 = 6
+falseP2: 10723
 trueP: 7383
 falseP: 10729
 falseN: 20257
@@ -5150,8 +5150,8 @@ precision for class 10000 is 0.5214007782101168
 precision for class 20000 is 0.6390013495276653
 precision for class 30000 is 0.750788643533123
 precision for class 1000000 is 0.5576501534414731
-falseP1 = 323
-falseP2 = 12218
+falseP1 = 3
+falseP2: 12538
 trueP: 5571
 falseP: 12541
 falseN: 22069
@@ -5206,8 +5206,8 @@ precision for class 10000 is 0.30845771144278605
 precision for class 20000 is 0.43796610169491523
 precision for class 30000 is 0.5696400625978091
 precision for class 1000000 is 0.42932628797886396
-falseP1 = 408
-falseP2 = 14249
+falseP1 = 3
+falseP2: 14654
 trueP: 3455
 falseP: 14657
 falseN: 24185
@@ -5262,8 +5262,8 @@ precision for class 10000 is 0.12624254473161034
 precision for class 20000 is 0.18664850136239783
 precision for class 30000 is 0.2571428571428571
 precision for class 1000000 is 0.2251101321585903
-falseP1 = 487
-falseP2 = 16210
+falseP1 = 1
+falseP2: 16696
 trueP: 1415
 falseP: 16697
 falseN: 26225
@@ -5318,16 +5318,16 @@ precision for class 10000 is 0.01195219123505976
 precision for class 20000 is 0.021145975443383355
 precision for class 30000 is 0.0397456279809221
 precision for class 1000000 is 0.03349493168796827
-falseP1 = 533
-falseP2 = 17397
+falseP1 = 0
+falseP2: 17930
 trueP: 182
 falseP: 17930
 falseN: 27458
 recall = 0.00658465991316932
 precission = 0.010048586572438163
 average prediction error: 16.034544645639684
-Map = 0.6097847312627859
-Rap = 0.39958108005179377
+MaP = 0.6097847312627859
+MaR = 0.39958108005179377
 file: dusk_overcast
 IoU = 0.05
 recall for class 100 is 0.23835616438356164
@@ -5376,8 +5376,8 @@ precision for class 10000 is 0.9253472222222222
 precision for class 20000 is 0.954171562867215
 precision for class 30000 is 0.9587912087912088
 precision for class 1000000 is 0.6411347517730497
-falseP1 = 96
-falseP2 = 1378
+falseP1 = 69
+falseP2: 1405
 trueP: 10558
 falseP: 1474
 falseN: 6620
@@ -5432,8 +5432,8 @@ precision for class 10000 is 0.9163879598662207
 precision for class 20000 is 0.9544444444444444
 precision for class 30000 is 0.9583333333333334
 precision for class 1000000 is 0.6487039563437926
-falseP1 = 97
-falseP2 = 1469
+falseP1 = 55
+falseP2: 1511
 trueP: 10466
 falseP: 1566
 falseN: 6712
@@ -5488,8 +5488,8 @@ precision for class 10000 is 0.9131147540983606
 precision for class 20000 is 0.9549356223175965
 precision for class 30000 is 0.9587628865979382
 precision for class 1000000 is 0.6488135593220339
-falseP1 = 98
-falseP2 = 1553
+falseP1 = 45
+falseP2: 1606
 trueP: 10381
 falseP: 1651
 falseN: 6797
@@ -5544,8 +5544,8 @@ precision for class 10000 is 0.9089430894308943
 precision for class 20000 is 0.9541088580576307
 precision for class 30000 is 0.9592875318066157
 precision for class 1000000 is 0.6495263870094723
-falseP1 = 100
-falseP2 = 1643
+falseP1 = 43
+falseP2: 1700
 trueP: 10289
 falseP: 1743
 falseN: 6889
@@ -5600,8 +5600,8 @@ precision for class 10000 is 0.9069020866773676
 precision for class 20000 is 0.9531914893617022
 precision for class 30000 is 0.9598997493734336
 precision for class 1000000 is 0.649763353617309
-falseP1 = 105
-falseP2 = 1774
+falseP1 = 42
+falseP2: 1837
 trueP: 10153
 falseP: 1879
 falseN: 7025
@@ -5656,8 +5656,8 @@ precision for class 10000 is 0.9043062200956937
 precision for class 20000 is 0.953340402969247
 precision for class 30000 is 0.9598997493734336
 precision for class 1000000 is 0.650236326806212
-falseP1 = 108
-falseP2 = 1926
+falseP1 = 39
+falseP2: 1995
 trueP: 9998
 falseP: 2034
 falseN: 7180
@@ -5712,8 +5712,8 @@ precision for class 10000 is 0.9014308426073132
 precision for class 20000 is 0.9513742071881607
 precision for class 30000 is 0.96
 precision for class 1000000 is 0.6497975708502024
-falseP1 = 112
-falseP2 = 2133
+falseP1 = 34
+falseP2: 2211
 trueP: 9787
 falseP: 2245
 falseN: 7391
@@ -5768,8 +5768,8 @@ precision for class 10000 is 0.8955696202531646
 precision for class 20000 is 0.9495268138801262
 precision for class 30000 is 0.9598997493734336
 precision for class 1000000 is 0.6497975708502024
-falseP1 = 118
-falseP2 = 2424
+falseP1 = 30
+falseP2: 2512
 trueP: 9490
 falseP: 2542
 falseN: 7688
@@ -5824,8 +5824,8 @@ precision for class 10000 is 0.8909952606635071
 precision for class 20000 is 0.9494736842105264
 precision for class 30000 is 0.9598997493734336
 precision for class 1000000 is 0.6486850977747809
-falseP1 = 129
-falseP2 = 2776
+falseP1 = 27
+falseP2: 2878
 trueP: 9127
 falseP: 2905
 falseN: 8051
@@ -5880,8 +5880,8 @@ precision for class 10000 is 0.877742946708464
 precision for class 20000 is 0.9464285714285714
 precision for class 30000 is 0.9596977329974811
 precision for class 1000000 is 0.6473364801078895
-falseP1 = 143
-falseP2 = 3160
+falseP1 = 22
+falseP2: 3281
 trueP: 8729
 falseP: 3303
 falseN: 8449
@@ -5936,8 +5936,8 @@ precision for class 10000 is 0.8726415094339622
 precision for class 20000 is 0.9382198952879581
 precision for class 30000 is 0.9521410579345088
 precision for class 1000000 is 0.6461850101282917
-falseP1 = 160
-falseP2 = 3713
+falseP1 = 22
+falseP2: 3851
 trueP: 8159
 falseP: 3873
 falseN: 9019
@@ -5992,8 +5992,8 @@ precision for class 10000 is 0.8533123028391167
 precision for class 20000 is 0.9258098223615465
 precision for class 30000 is 0.9472361809045227
 precision for class 1000000 is 0.6450304259634888
-falseP1 = 176
-falseP2 = 4298
+falseP1 = 18
+falseP2: 4456
 trueP: 7558
 falseP: 4474
 falseN: 9620
@@ -6048,8 +6048,8 @@ precision for class 10000 is 0.8220472440944881
 precision for class 20000 is 0.9113924050632911
 precision for class 30000 is 0.9423558897243107
 precision for class 1000000 is 0.6382691007437458
-falseP1 = 202
-falseP2 = 5027
+falseP1 = 11
+falseP2: 5218
 trueP: 6803
 falseP: 5229
 falseN: 10375
@@ -6104,8 +6104,8 @@ precision for class 10000 is 0.7786624203821656
 precision for class 20000 is 0.8769883351007424
 precision for class 30000 is 0.9271356783919598
 precision for class 1000000 is 0.6289776574136764
-falseP1 = 228
-falseP2 = 5823
+falseP1 = 10
+falseP2: 6041
 trueP: 5981
 falseP: 6051
 falseN: 11197
@@ -6160,8 +6160,8 @@ precision for class 10000 is 0.6871069182389937
 precision for class 20000 is 0.8254310344827587
 precision for class 30000 is 0.8866498740554156
 precision for class 1000000 is 0.6012186865267434
-falseP1 = 256
-falseP2 = 6759
+falseP1 = 4
+falseP2: 7011
 trueP: 5017
 falseP: 7015
 falseN: 12161
@@ -6216,8 +6216,8 @@ precision for class 10000 is 0.5309033280507132
 precision for class 20000 is 0.6990077177508269
 precision for class 30000 is 0.7904040404040404
 precision for class 1000000 is 0.5287745429925524
-falseP1 = 302
-falseP2 = 7943
+falseP1 = 2
+falseP2: 8243
 trueP: 3787
 falseP: 8245
 falseN: 13391
@@ -6272,8 +6272,8 @@ precision for class 10000 is 0.3202511773940345
 precision for class 20000 is 0.45739910313901344
 precision for class 30000 is 0.6256410256410256
 precision for class 1000000 is 0.4294436906377205
-falseP1 = 358
-falseP2 = 9284
+falseP1 = 1
+falseP2: 9641
 trueP: 2390
 falseP: 9642
 falseN: 14788
@@ -6328,8 +6328,8 @@ precision for class 10000 is 0.1152
 precision for class 20000 is 0.19775280898876405
 precision for class 30000 is 0.33766233766233766
 precision for class 1000000 is 0.22214673913043478
-falseP1 = 429
-falseP2 = 10619
+falseP1 = 0
+falseP2: 11048
 trueP: 984
 falseP: 11048
 falseN: 16194
@@ -6384,16 +6384,16 @@ precision for class 10000 is 0.01263823064770932
 precision for class 20000 is 0.01807909604519774
 precision for class 30000 is 0.04314720812182741
 precision for class 1000000 is 0.0348122866894198
-falseP1 = 483
-falseP2 = 11437
+falseP1 = 0
+falseP2: 11920
 trueP: 112
 falseP: 11920
 falseN: 17066
 recall = 0.006519967400162999
 precission = 0.009308510638297872
 average prediction error: 13.207571716311673
-Map = 0.6113915523516237
-Rap = 0.42823746407583746
+MaP = 0.6113915523516237
+MaR = 0.42823746407583746
 file: dusk_rain
 IoU = 0.05
 recall for class 100 is 0.2564102564102564
@@ -6442,8 +6442,8 @@ precision for class 10000 is 0.9166666666666666
 precision for class 20000 is 0.9403669724770642
 precision for class 30000 is 0.9916666666666667
 precision for class 1000000 is 0.8465909090909091
-falseP1 = 23
-falseP2 = 309
+falseP1 = 15
+falseP2: 317
 trueP: 2541
 falseP: 332
 falseN: 1911
@@ -6498,8 +6498,8 @@ precision for class 10000 is 0.9207920792079208
 precision for class 20000 is 0.9318181818181818
 precision for class 30000 is 0.9915966386554622
 precision for class 1000000 is 0.8498659517426274
-falseP1 = 25
-falseP2 = 333
+falseP1 = 15
+falseP2: 343
 trueP: 2515
 falseP: 358
 falseN: 1937
@@ -6554,8 +6554,8 @@ precision for class 10000 is 0.9174757281553398
 precision for class 20000 is 0.9324894514767933
 precision for class 30000 is 0.9916666666666667
 precision for class 1000000 is 0.8506666666666667
-falseP1 = 26
-falseP2 = 352
+falseP1 = 15
+falseP2: 363
 trueP: 2495
 falseP: 378
 falseN: 1957
@@ -6610,8 +6610,8 @@ precision for class 10000 is 0.9166666666666666
 precision for class 20000 is 0.9333333333333333
 precision for class 30000 is 0.9916666666666667
 precision for class 1000000 is 0.8506666666666667
-falseP1 = 26
-falseP2 = 369
+falseP1 = 10
+falseP2: 385
 trueP: 2478
 falseP: 395
 falseN: 1974
@@ -6666,8 +6666,8 @@ precision for class 10000 is 0.9166666666666666
 precision for class 20000 is 0.9336099585062241
 precision for class 30000 is 0.9917355371900827
 precision for class 1000000 is 0.8506666666666667
-falseP1 = 26
-falseP2 = 388
+falseP1 = 9
+falseP2: 405
 trueP: 2459
 falseP: 414
 falseN: 1993
@@ -6722,8 +6722,8 @@ precision for class 10000 is 0.9130434782608695
 precision for class 20000 is 0.9338842975206612
 precision for class 30000 is 0.9917355371900827
 precision for class 1000000 is 0.851063829787234
-falseP1 = 27
-falseP2 = 423
+falseP1 = 8
+falseP2: 442
 trueP: 2423
 falseP: 450
 falseN: 2029
@@ -6777,8 +6777,8 @@ precision for class 10000 is 0.9082125603864735
 precision for class 20000 is 0.9259259259259259
 precision for class 30000 is 0.9917355371900827
 precision for class 1000000 is 0.851063829787234
-falseP1 = 27
-falseP2 = 477
+falseP1 = 8
+falseP2: 496
 trueP: 2369
 falseP: 504
 falseN: 2083
@@ -6832,8 +6832,8 @@ precision for class 10000 is 0.8909952606635071
 precision for class 20000 is 0.9109311740890689
 precision for class 30000 is 0.9915966386554622
 precision for class 1000000 is 0.8506666666666667
-falseP1 = 31
-falseP2 = 540
+falseP1 = 5
+falseP2: 566
 trueP: 2302
 falseP: 571
 falseN: 2150
@@ -6887,8 +6887,8 @@ precision for class 10000 is 0.8785046728971962
 precision for class 20000 is 0.9065040650406504
 precision for class 30000 is 0.9833333333333333
 precision for class 1000000 is 0.8502673796791443
-falseP1 = 30
-falseP2 = 629
+falseP1 = 5
+falseP2: 654
 trueP: 2214
 falseP: 659
 falseN: 2238
@@ -6942,8 +6942,8 @@ precision for class 10000 is 0.8732394366197183
 precision for class 20000 is 0.8991935483870968
 precision for class 30000 is 0.9831932773109243
 precision for class 1000000 is 0.8502673796791443
-falseP1 = 33
-falseP2 = 735
+falseP1 = 5
+falseP2: 763
 trueP: 2105
 falseP: 768
 falseN: 2347
@@ -6997,8 +6997,8 @@ precision for class 10000 is 0.8558139534883721
 precision for class 20000 is 0.8987854251012146
 precision for class 30000 is 0.9831932773109243
 precision for class 1000000 is 0.8475935828877005
-falseP1 = 35
-falseP2 = 849
+falseP1 = 4
+falseP2: 880
 trueP: 1989
 falseP: 884
 falseN: 2463
@@ -7052,8 +7052,8 @@ precision for class 10000 is 0.8246445497630331
 precision for class 20000 is 0.8571428571428571
 precision for class 30000 is 0.9747899159663865
 precision for class 1000000 is 0.8342245989304813
-falseP1 = 40
-falseP2 = 999
+falseP1 = 2
+falseP2: 1037
 trueP: 1834
 falseP: 1039
 falseN: 2618
@@ -7107,8 +7107,8 @@ precision for class 10000 is 0.784037558685446
 precision for class 20000 is 0.8346774193548387
 precision for class 30000 is 0.9576271186440678
 precision for class 1000000 is 0.8271276595744681
-falseP1 = 45
-falseP2 = 1160
+falseP1 = 1
+falseP2: 1204
 trueP: 1668
 falseP: 1205
 falseN: 2784
@@ -7162,8 +7162,8 @@ precision for class 10000 is 0.6822429906542056
 precision for class 20000 is 0.7868852459016393
 precision for class 30000 is 0.9322033898305084
 precision for class 1000000 is 0.8053333333333333
-falseP1 = 49
-falseP2 = 1374
+falseP1 = 1
+falseP2: 1422
 trueP: 1450
 falseP: 1423
 falseN: 3002
@@ -7217,8 +7217,8 @@ precision for class 10000 is 0.6132075471698113
 precision for class 20000 is 0.7066115702479339
 precision for class 30000 is 0.8717948717948718
 precision for class 1000000 is 0.75
-falseP1 = 55
-falseP2 = 1613
+falseP1 = 1
+falseP2: 1667
 trueP: 1205
 falseP: 1668
 falseN: 3247
@@ -7272,8 +7272,8 @@ precision for class 10000 is 0.49246231155778897
 precision for class 20000 is 0.5622489959839357
 precision for class 30000 is 0.7181818181818181
 precision for class 1000000 is 0.6428571428571429
-falseP1 = 66
-falseP2 = 1905
+falseP1 = 1
+falseP2: 1970
 trueP: 902
 falseP: 1971
 falseN: 3550
@@ -7327,8 +7327,8 @@ precision for class 10000 is 0.28125
 precision for class 20000 is 0.3346456692913386
 precision for class 30000 is 0.44545454545454544
 precision for class 1000000 is 0.4289544235924933
-falseP1 = 83
-falseP2 = 2265
+falseP1 = 1
+falseP2: 2347
 trueP: 525
 falseP: 2348
 falseN: 3927
@@ -7382,8 +7382,8 @@ precision for class 10000 is 0.10526315789473684
 precision for class 20000 is 0.1422924901185771
 precision for class 30000 is 0.22429906542056074
 precision for class 1000000 is 0.19680851063829788
-falseP1 = 101
-falseP2 = 2570
+falseP1 = 0
+falseP2: 2671
 trueP: 202
 falseP: 2671
 falseN: 4250
@@ -7437,16 +7437,16 @@ precision for class 10000 is 0.010471204188481676
 precision for class 20000 is 0.008
 precision for class 30000 is 0.037037037037037035
 precision for class 1000000 is 0.026595744680851064
-falseP1 = 108
-falseP2 = 2747
+falseP1 = 0
+falseP2: 2855
 trueP: 18
 falseP: 2855
 falseN: 4434
 recall = 0.004043126684636119
 precission = 0.006265227984684998
 average prediction error: 13.829090668332965
-Map = 0.6172531921519775
-Rap = 0.3983307324916064
+MaP = 0.6172531921519775
+MaR = 0.3983307324916064
 file: dusk_snow
 IoU = 0.05
 recall for class 100 is 0.16363636363636364
@@ -7495,8 +7495,8 @@ precision for class 10000 is 0.9313304721030042
 precision for class 20000 is 0.9585635359116023
 precision for class 30000 is 0.9696969696969697
 precision for class 1000000 is 0.7559322033898305
-falseP1 = 36
-falseP2 = 489
+falseP1 = 23
+falseP2: 502
 trueP: 3761
 falseP: 525
 falseN: 2502
@@ -7551,8 +7551,8 @@ precision for class 10000 is 0.9256198347107438
 precision for class 20000 is 0.9577836411609498
 precision for class 30000 is 0.9709302325581395
 precision for class 1000000 is 0.7653721682847896
-falseP1 = 37
-falseP2 = 522
+falseP1 = 16
+falseP2: 543
 trueP: 3727
 falseP: 559
 falseN: 2536
@@ -7607,8 +7607,8 @@ precision for class 10000 is 0.9221311475409836
 precision for class 20000 is 0.958005249343832
 precision for class 30000 is 0.9712643678160919
 precision for class 1000000 is 0.7682539682539683
-falseP1 = 36
-falseP2 = 555
+falseP1 = 14
+falseP2: 577
 trueP: 3695
 falseP: 591
 falseN: 2568
@@ -7663,8 +7663,8 @@ precision for class 10000 is 0.92
 precision for class 20000 is 0.95822454308094
 precision for class 30000 is 0.9717514124293786
 precision for class 1000000 is 0.7674050632911392
-falseP1 = 41
-falseP2 = 580
+falseP1 = 10
+falseP2: 611
 trueP: 3665
 falseP: 621
 falseN: 2598
@@ -7719,8 +7719,8 @@ precision for class 10000 is 0.921875
 precision for class 20000 is 0.9541984732824428
 precision for class 30000 is 0.9715909090909091
 precision for class 1000000 is 0.7677725118483413
-falseP1 = 41
-falseP2 = 630
+falseP1 = 9
+falseP2: 662
 trueP: 3615
 falseP: 671
 falseN: 2648
@@ -7774,8 +7774,8 @@ precision for class 10000 is 0.918918918918919
 precision for class 20000 is 0.9526184538653366
 precision for class 30000 is 0.9659090909090909
 precision for class 1000000 is 0.7665615141955836
-falseP1 = 43
-falseP2 = 678
+falseP1 = 6
+falseP2: 715
 trueP: 3565
 falseP: 721
 falseN: 2698
@@ -7829,8 +7829,8 @@ precision for class 10000 is 0.9118773946360154
 precision for class 20000 is 0.9523809523809523
 precision for class 30000 is 0.9657142857142857
 precision for class 1000000 is 0.7657232704402516
-falseP1 = 45
-falseP2 = 742
+falseP1 = 5
+falseP2: 782
 trueP: 3499
 falseP: 787
 falseN: 2764
@@ -7884,8 +7884,8 @@ precision for class 10000 is 0.9108527131782945
 precision for class 20000 is 0.9454094292803971
 precision for class 30000 is 0.9657142857142857
 precision for class 1000000 is 0.7641509433962265
-falseP1 = 50
-falseP2 = 821
+falseP1 = 5
+falseP2: 866
 trueP: 3415
 falseP: 871
 falseN: 2848
@@ -7939,8 +7939,8 @@ precision for class 10000 is 0.89272030651341
 precision for class 20000 is 0.945679012345679
 precision for class 30000 is 0.9657142857142857
 precision for class 1000000 is 0.7641509433962265
-falseP1 = 53
-falseP2 = 923
+falseP1 = 3
+falseP2: 973
 trueP: 3310
 falseP: 976
 falseN: 2953
@@ -7994,8 +7994,8 @@ precision for class 10000 is 0.8863636363636364
 precision for class 20000 is 0.941031941031941
 precision for class 30000 is 0.9540229885057471
 precision for class 1000000 is 0.7637795275590551
-falseP1 = 60
-falseP2 = 1061
+falseP1 = 2
+falseP2: 1119
 trueP: 3165
 falseP: 1121
 falseN: 3098
@@ -8049,8 +8049,8 @@ precision for class 10000 is 0.8679245283018868
 precision for class 20000 is 0.9312039312039312
 precision for class 30000 is 0.9428571428571428
 precision for class 1000000 is 0.7622047244094489
-falseP1 = 67
-falseP2 = 1229
+falseP1 = 3
+falseP2: 1293
 trueP: 2990
 falseP: 1296
 falseN: 3273
@@ -8104,8 +8104,8 @@ precision for class 10000 is 0.8352059925093633
 precision for class 20000 is 0.9097560975609756
 precision for class 30000 is 0.9367816091954023
 precision for class 1000000 is 0.7586750788643533
-falseP1 = 80
-falseP2 = 1438
+falseP1 = 3
+falseP2: 1515
 trueP: 2768
 falseP: 1518
 falseN: 3495
@@ -8159,8 +8159,8 @@ precision for class 10000 is 0.7985074626865671
 precision for class 20000 is 0.878345498783455
 precision for class 30000 is 0.9085714285714286
 precision for class 1000000 is 0.7503949447077409
-falseP1 = 91
-falseP2 = 1689
+falseP1 = 2
+falseP2: 1778
 trueP: 2506
 falseP: 1780
 falseN: 3757
@@ -8214,8 +8214,8 @@ precision for class 10000 is 0.7272727272727273
 precision for class 20000 is 0.829736211031175
 precision for class 30000 is 0.888235294117647
 precision for class 1000000 is 0.7361769352290679
-falseP1 = 102
-falseP2 = 1985
+falseP1 = 2
+falseP2: 2085
 trueP: 2199
 falseP: 2087
 falseN: 4064
@@ -8269,8 +8269,8 @@ precision for class 10000 is 0.6461538461538462
 precision for class 20000 is 0.7391304347826086
 precision for class 30000 is 0.8313253012048193
 precision for class 1000000 is 0.6971608832807571
-falseP1 = 117
-falseP2 = 2321
+falseP1 = 2
+falseP2: 2436
 trueP: 1848
 falseP: 2438
 falseN: 4415
@@ -8324,8 +8324,8 @@ precision for class 10000 is 0.5
 precision for class 20000 is 0.6024390243902439
 precision for class 30000 is 0.7453416149068323
 precision for class 1000000 is 0.6299212598425197
-falseP1 = 140
-falseP2 = 2740
+falseP1 = 2
+falseP2: 2878
 trueP: 1406
 falseP: 2880
 falseN: 4857
@@ -8379,8 +8379,8 @@ precision for class 10000 is 0.26953125
 precision for class 20000 is 0.4121951219512195
 precision for class 30000 is 0.5769230769230769
 precision for class 1000000 is 0.4664586583463339
-falseP1 = 177
-falseP2 = 3225
+falseP1 = 2
+falseP2: 3400
 trueP: 884
 falseP: 3402
 falseN: 5379
@@ -8434,8 +8434,8 @@ precision for class 10000 is 0.11328125
 precision for class 20000 is 0.16216216216216217
 precision for class 30000 is 0.2948717948717949
 precision for class 1000000 is 0.2421875
-falseP1 = 213
-falseP2 = 3703
+falseP1 = 1
+falseP2: 3915
 trueP: 370
 falseP: 3916
 falseN: 5893
@@ -8489,16 +8489,16 @@ precision for class 10000 is 0.00784313725490196
 precision for class 20000 is 0.019656019656019656
 precision for class 30000 is 0.019867549668874173
 precision for class 1000000 is 0.03260869565217391
-falseP1 = 244
-falseP2 = 4005
+falseP1 = 0
+falseP2: 4249
 trueP: 37
 falseP: 4249
 falseN: 6226
 recall = 0.00590771195912502
 precission = 0.00863275781614559
 average prediction error: 26.7068676431293
-Map = 0.6192131050912395
-Rap = 0.4237501785759306
+MaP = 0.6192131050912395
+MaR = 0.4237501785759306
 file: night_sunny
 IoU = 0.05
 recall for class 100 is 0.051255230125523014
@@ -8547,8 +8547,8 @@ precision for class 10000 is 0.9213250517598344
 precision for class 20000 is 0.9506581540159218
 precision for class 30000 is 0.9706334300836605
 precision for class 1000000 is 0.8017933479303514
-falseP1 = 569
-falseP2 = 10448
+falseP1 = 408
+falseP2: 10609
 trueP: 99953
 falseP: 11017
 falseN: 159229
@@ -8603,8 +8603,8 @@ precision for class 10000 is 0.9146770545363156
 precision for class 20000 is 0.9476107797991998
 precision for class 30000 is 0.9705451586655818
 precision for class 1000000 is 0.8069507613209412
-falseP1 = 582
-falseP2 = 11341
+falseP1 = 323
+falseP2: 11600
 trueP: 99047
 falseP: 11923
 falseN: 160135
@@ -8659,8 +8659,8 @@ precision for class 10000 is 0.9105498880318487
 precision for class 20000 is 0.9451125046108447
 precision for class 30000 is 0.9692626214365345
 precision for class 1000000 is 0.8089233753637245
-falseP1 = 596
-falseP2 = 12063
+falseP1 = 282
+falseP2: 12377
 trueP: 98311
 falseP: 12659
 falseN: 160871
@@ -8715,8 +8715,8 @@ precision for class 10000 is 0.9054219823356232
 precision for class 20000 is 0.9428905280070109
 precision for class 30000 is 0.9689714915734762
 precision for class 1000000 is 0.8094504118298733
-falseP1 = 609
-falseP2 = 12912
+falseP1 = 245
+falseP2: 13276
 trueP: 97449
 falseP: 13521
 falseN: 161733
@@ -8771,8 +8771,8 @@ precision for class 10000 is 0.9001825928180158
 precision for class 20000 is 0.9399157221737867
 precision for class 30000 is 0.968151866959523
 precision for class 1000000 is 0.8092721595003604
-falseP1 = 628
-falseP2 = 14014
+falseP1 = 214
+falseP2: 14428
 trueP: 96328
 falseP: 14642
 falseN: 162854
@@ -8827,8 +8827,8 @@ precision for class 10000 is 0.8941219423147134
 precision for class 20000 is 0.9357060017396347
 precision for class 30000 is 0.9668707803422829
 precision for class 1000000 is 0.8085729371669946
-falseP1 = 645
-falseP2 = 15639
+falseP1 = 172
+falseP2: 16112
 trueP: 94686
 falseP: 16284
 falseN: 164496
@@ -8883,8 +8883,8 @@ precision for class 10000 is 0.8854793175401988
 precision for class 20000 is 0.930859911766833
 precision for class 30000 is 0.965446835244228
 precision for class 1000000 is 0.8076479631053036
-falseP1 = 667
-falseP2 = 17858
+falseP1 = 150
+falseP2: 18375
 trueP: 92445
 falseP: 18525
 falseN: 166737
@@ -8938,8 +8938,8 @@ precision for class 10000 is 0.8730492940302205
 precision for class 20000 is 0.9245405874692519
 precision for class 30000 is 0.9630506868782568
 precision for class 1000000 is 0.8058187064198125
-falseP1 = 705
-falseP2 = 20917
+falseP1 = 134
+falseP2: 21488
 trueP: 89348
 falseP: 21622
 falseN: 169834
@@ -8993,8 +8993,8 @@ precision for class 10000 is 0.8529118964659035
 precision for class 20000 is 0.913404593384371
 precision for class 30000 is 0.9573791348600509
 precision for class 1000000 is 0.8034113905753107
-falseP1 = 745
-falseP2 = 24915
+falseP1 = 115
+falseP2: 25545
 trueP: 85310
 falseP: 25660
 falseN: 173872
@@ -9048,8 +9048,8 @@ precision for class 10000 is 0.8272966537160045
 precision for class 20000 is 0.8946837631465206
 precision for class 30000 is 0.949002574002574
 precision for class 1000000 is 0.7987825498816368
-falseP1 = 803
-falseP2 = 29870
+falseP1 = 97
+falseP2: 30576
 trueP: 80297
 falseP: 30673
 falseN: 178885
@@ -9103,8 +9103,8 @@ precision for class 10000 is 0.7882945248584015
 precision for class 20000 is 0.870107402868882
 precision for class 30000 is 0.936173685928828
 precision for class 1000000 is 0.791356112670603
-falseP1 = 866
-falseP2 = 35538
+falseP1 = 77
+falseP2: 36327
 trueP: 74566
 falseP: 36404
 falseN: 184616
@@ -9158,8 +9158,8 @@ precision for class 10000 is 0.7349716446124763
 precision for class 20000 is 0.8293001014345747
 precision for class 30000 is 0.9131517768183328
 precision for class 1000000 is 0.7787434453291902
-falseP1 = 976
-falseP2 = 42167
+falseP1 = 59
+falseP2: 43084
 trueP: 67827
 falseP: 43143
 falseN: 191355
@@ -9213,8 +9213,8 @@ precision for class 10000 is 0.6578713687682355
 precision for class 20000 is 0.7696228338430173
 precision for class 30000 is 0.8730723606168446
 precision for class 1000000 is 0.7576407506702413
-falseP1 = 1126
-falseP2 = 50070
+falseP1 = 53
+falseP2: 51143
 trueP: 59774
 falseP: 51196
 falseN: 199408
@@ -9268,8 +9268,8 @@ precision for class 10000 is 0.5543299099784456
 precision for class 20000 is 0.6773463727922931
 precision for class 30000 is 0.8034470752089137
 precision for class 1000000 is 0.7173710759586659
-falseP1 = 1321
-falseP2 = 59140
+falseP1 = 41
+falseP2: 60420
 trueP: 50509
 falseP: 60461
 falseN: 208673
@@ -9323,8 +9323,8 @@ precision for class 10000 is 0.4282471626733922
 precision for class 20000 is 0.5436609426379247
 precision for class 30000 is 0.7027367662945625
 precision for class 1000000 is 0.6476031105423762
-falseP1 = 1623
-falseP2 = 69548
+falseP1 = 27
+falseP2: 71144
 trueP: 39799
 falseP: 71171
 falseN: 219383
@@ -9378,8 +9378,8 @@ precision for class 10000 is 0.28209606986899566
 precision for class 20000 is 0.3806759735488611
 precision for class 30000 is 0.5481972038263428
 precision for class 1000000 is 0.5306374975252425
-falseP1 = 2022
-falseP2 = 81072
+falseP1 = 18
+falseP2: 83076
 trueP: 27876
 falseP: 83094
 falseN: 231306
@@ -9433,8 +9433,8 @@ precision for class 10000 is 0.13200098692326673
 precision for class 20000 is 0.19933823529411765
 precision for class 30000 is 0.3357746478873239
 precision for class 1000000 is 0.35560526969922945
-falseP1 = 2521
-falseP2 = 92858
+falseP1 = 12
+falseP2: 95367
 trueP: 15591
 falseP: 95379
 falseN: 243591
@@ -9488,8 +9488,8 @@ precision for class 10000 is 0.036459612079548245
 precision for class 20000 is 0.0604480352552332
 precision for class 30000 is 0.133169160825914
 precision for class 1000000 is 0.14891921506126107
-falseP1 = 2989
-falseP2 = 102424
+falseP1 = 3
+falseP2: 105410
 trueP: 5557
 falseP: 105413
 falseN: 253625
@@ -9543,16 +9543,16 @@ precision for class 10000 is 0.002826594568022613
 precision for class 20000 is 0.0046248715313463515
 precision for class 30000 is 0.014399393709738537
 precision for class 1000000 is 0.019484726167339414
-falseP1 = 3266
-falseP2 = 107096
+falseP1 = 0
+falseP2: 110362
 trueP: 608
 falseP: 110362
 falseN: 258574
 recall = 0.0023458419180344314
 precission = 0.005478958277011805
 average prediction error: 24.095428311628172
-Map = 0.6048486314461471
-Rap = 0.25896880428262353
+MaP = 0.6048486314461471
+MaR = 0.25896880428262353
 file: night_overcast
 IoU = 0.05
 recall for class 100 is 0.16666666666666666
@@ -9601,8 +9601,8 @@ precision for class 10000 is 0.9459459459459459
 precision for class 20000 is 0.9464285714285714
 precision for class 30000 is 0.9565217391304348
 precision for class 1000000 is 0.8080808080808081
-falseP1 = 5
-falseP2 = 62
+falseP1 = 4
+falseP2: 63
 trueP: 575
 falseP: 67
 falseN: 456
@@ -9657,8 +9657,8 @@ precision for class 10000 is 0.9459459459459459
 precision for class 20000 is 0.9491525423728814
 precision for class 30000 is 0.9629629629629629
 precision for class 1000000 is 0.801980198019802
-falseP1 = 5
-falseP2 = 70
+falseP1 = 4
+falseP2: 71
 trueP: 567
 falseP: 75
 falseN: 464
@@ -9712,8 +9712,8 @@ precision for class 10000 is 0.9487179487179487
 precision for class 20000 is 0.9491525423728814
 precision for class 30000 is 0.9642857142857143
 precision for class 1000000 is 0.7961165048543689
-falseP1 = 5
-falseP2 = 76
+falseP1 = 4
+falseP2: 77
 trueP: 561
 falseP: 81
 falseN: 470
@@ -9767,8 +9767,8 @@ precision for class 10000 is 0.95
 precision for class 20000 is 0.95
 precision for class 30000 is 0.9642857142857143
 precision for class 1000000 is 0.7980769230769231
-falseP1 = 5
-falseP2 = 79
+falseP1 = 4
+falseP2: 80
 trueP: 558
 falseP: 84
 falseN: 473
@@ -9821,8 +9821,8 @@ precision for class 10000 is 0.9512195121951219
 precision for class 20000 is 0.95
 precision for class 30000 is 0.9642857142857143
 precision for class 1000000 is 0.7980769230769231
-falseP1 = 5
-falseP2 = 82
+falseP1 = 4
+falseP2: 83
 trueP: 555
 falseP: 87
 falseN: 476
@@ -9875,8 +9875,8 @@ precision for class 10000 is 0.9512195121951219
 precision for class 20000 is 0.95
 precision for class 30000 is 0.9642857142857143
 precision for class 1000000 is 0.7980769230769231
-falseP1 = 5
-falseP2 = 90
+falseP1 = 2
+falseP2: 93
 trueP: 547
 falseP: 95
 falseN: 484
@@ -9929,8 +9929,8 @@ precision for class 10000 is 0.9512195121951219
 precision for class 20000 is 0.9491525423728814
 precision for class 30000 is 0.9642857142857143
 precision for class 1000000 is 0.7980769230769231
-falseP1 = 5
-falseP2 = 103
+falseP1 = 2
+falseP2: 106
 trueP: 534
 falseP: 108
 falseN: 497
@@ -9983,8 +9983,8 @@ precision for class 10000 is 0.9523809523809523
 precision for class 20000 is 0.9491525423728814
 precision for class 30000 is 0.9642857142857143
 precision for class 1000000 is 0.7980769230769231
-falseP1 = 5
-falseP2 = 117
+falseP1 = 2
+falseP2: 120
 trueP: 520
 falseP: 122
 falseN: 511
@@ -10037,8 +10037,8 @@ precision for class 10000 is 0.9523809523809523
 precision for class 20000 is 0.9491525423728814
 precision for class 30000 is 0.9642857142857143
 precision for class 1000000 is 0.7980769230769231
-falseP1 = 5
-falseP2 = 134
+falseP1 = 2
+falseP2: 137
 trueP: 503
 falseP: 139
 falseN: 528
@@ -10091,8 +10091,8 @@ precision for class 10000 is 0.9090909090909091
 precision for class 20000 is 0.9180327868852459
 precision for class 30000 is 0.9629629629629629
 precision for class 1000000 is 0.7980769230769231
-falseP1 = 6
-falseP2 = 157
+falseP1 = 2
+falseP2: 161
 trueP: 479
 falseP: 163
 falseN: 552
@@ -10145,8 +10145,8 @@ precision for class 10000 is 0.9090909090909091
 precision for class 20000 is 0.9152542372881356
 precision for class 30000 is 0.9629629629629629
 precision for class 1000000 is 0.7980769230769231
-falseP1 = 6
-falseP2 = 188
+falseP1 = 2
+falseP2: 192
 trueP: 448
 falseP: 194
 falseN: 583
@@ -10200,8 +10200,8 @@ precision for class 10000 is 0.8636363636363636
 precision for class 20000 is 0.8833333333333333
 precision for class 30000 is 0.9615384615384616
 precision for class 1000000 is 0.7980769230769231
-falseP1 = 6
-falseP2 = 221
+falseP1 = 1
+falseP2: 226
 trueP: 415
 falseP: 227
 falseN: 616
@@ -10255,8 +10255,8 @@ precision for class 10000 is 0.7906976744186046
 precision for class 20000 is 0.8524590163934426
 precision for class 30000 is 0.96
 precision for class 1000000 is 0.7980769230769231
-falseP1 = 6
-falseP2 = 267
+falseP1 = 1
+falseP2: 272
 trueP: 369
 falseP: 273
 falseN: 662
@@ -10310,8 +10310,8 @@ precision for class 10000 is 0.717948717948718
 precision for class 20000 is 0.7903225806451613
 precision for class 30000 is 0.9230769230769231
 precision for class 1000000 is 0.7788461538461539
-falseP1 = 8
-falseP2 = 311
+falseP1 = 0
+falseP2: 319
 trueP: 323
 falseP: 319
 falseN: 708
@@ -10365,8 +10365,8 @@ precision for class 10000 is 0.625
 precision for class 20000 is 0.7166666666666667
 precision for class 30000 is 0.8148148148148148
 precision for class 1000000 is 0.7378640776699029
-falseP1 = 9
-falseP2 = 363
+falseP1 = 0
+falseP2: 372
 trueP: 270
 falseP: 372
 falseN: 761
@@ -10420,8 +10420,8 @@ precision for class 10000 is 0.38461538461538464
 precision for class 20000 is 0.49122807017543857
 precision for class 30000 is 0.6666666666666666
 precision for class 1000000 is 0.6213592233009708
-falseP1 = 12
-falseP2 = 446
+falseP1 = 0
+falseP2: 458
 trueP: 184
 falseP: 458
 falseN: 847
@@ -10475,8 +10475,8 @@ precision for class 10000 is 0.20512820512820512
 precision for class 20000 is 0.2982456140350877
 precision for class 30000 is 0.4583333333333333
 precision for class 1000000 is 0.44761904761904764
-falseP1 = 17
-falseP2 = 514
+falseP1 = 0
+falseP2: 531
 trueP: 111
 falseP: 531
 falseN: 920
@@ -10530,8 +10530,8 @@ precision for class 10000 is 0.02702702702702703
 precision for class 20000 is 0.13793103448275862
 precision for class 30000 is 0.21739130434782608
 precision for class 1000000 is 0.2
-falseP1 = 20
-falseP2 = 583
+falseP1 = 0
+falseP2: 603
 trueP: 39
 falseP: 603
 falseN: 992
@@ -10585,16 +10585,16 @@ precision for class 10000 is 0.0
 precision for class 20000 is 0.0
 precision for class 30000 is 0.17391304347826086
 precision for class 1000000 is 0.01904761904761905
-falseP1 = 22
-falseP2 = 613
+falseP1 = 0
+falseP2: 635
 trueP: 7
 falseP: 635
 falseN: 1024
 recall = 0.006789524733268671
 precission = 0.010903426791277258
 average prediction error: 17.104311290591937
-Map = 0.6201836366617477
-Rap = 0.3861861248659963
+MaP = 0.6201836366617477
+MaR = 0.3861861248659963
 file: night_rain
 IoU = 0.05
 recall for class 100 is 0.04918032786885246
@@ -10643,8 +10643,8 @@ precision for class 10000 is 0.9155145929339478
 precision for class 20000 is 0.9410729991204925
 precision for class 30000 is 0.96875
 precision for class 1000000 is 0.8866371120962635
-falseP1 = 67
-falseP2 = 800
+falseP1 = 51
+falseP2: 816
 trueP: 7788
 falseP: 867
 falseN: 15399
@@ -10699,8 +10699,8 @@ precision for class 10000 is 0.9085457271364318
 precision for class 20000 is 0.9347079037800687
 precision for class 30000 is 0.964221824686941
 precision for class 1000000 is 0.8874925194494315
-falseP1 = 70
-falseP2 = 886
+falseP1 = 45
+falseP2: 911
 trueP: 7699
 falseP: 956
 falseN: 15488
@@ -10754,8 +10754,8 @@ precision for class 10000 is 0.9025487256371814
 precision for class 20000 is 0.9323181049069373
 precision for class 30000 is 0.9650959860383944
 precision for class 1000000 is 0.8886936145284124
-falseP1 = 69
-falseP2 = 943
+falseP1 = 36
+falseP2: 976
 trueP: 7643
 falseP: 1012
 falseN: 15544
@@ -10809,8 +10809,8 @@ precision for class 10000 is 0.900887573964497
 precision for class 20000 is 0.9311502938706969
 precision for class 30000 is 0.9655172413793104
 precision for class 1000000 is 0.8884369552585706
-falseP1 = 71
-falseP2 = 1004
+falseP1 = 33
+falseP2: 1042
 trueP: 7580
 falseP: 1075
 falseN: 15607
@@ -10864,8 +10864,8 @@ precision for class 10000 is 0.8892171344165436
 precision for class 20000 is 0.928390901432182
 precision for class 30000 is 0.9653379549393414
 precision for class 1000000 is 0.8883747831116252
-falseP1 = 71
-falseP2 = 1107
+falseP1 = 26
+falseP2: 1152
 trueP: 7477
 falseP: 1178
 falseN: 15710
@@ -10919,8 +10919,8 @@ precision for class 10000 is 0.8820058997050148
 precision for class 20000 is 0.9251063829787234
 precision for class 30000 is 0.9636678200692042
 precision for class 1000000 is 0.8873483535528596
-falseP1 = 73
-falseP2 = 1221
+falseP1 = 24
+falseP2: 1270
 trueP: 7361
 falseP: 1294
 falseN: 15826
@@ -10974,8 +10974,8 @@ precision for class 10000 is 0.8681481481481481
 precision for class 20000 is 0.9173764906303237
 precision for class 30000 is 0.9634146341463414
 precision for class 1000000 is 0.8861929520508377
-falseP1 = 75
-falseP2 = 1380
+falseP1 = 18
+falseP2: 1437
 trueP: 7200
 falseP: 1455
 falseN: 15987
@@ -11028,8 +11028,8 @@ precision for class 10000 is 0.8558558558558559
 precision for class 20000 is 0.910333048676345
 precision for class 30000 is 0.9614035087719298
 precision for class 1000000 is 0.8841922408801389
-falseP1 = 76
-falseP2 = 1581
+falseP1 = 12
+falseP2: 1645
 trueP: 6998
 falseP: 1657
 falseN: 16189
@@ -11082,8 +11082,8 @@ precision for class 10000 is 0.8258928571428571
 precision for class 20000 is 0.8937977909940527
 precision for class 30000 is 0.956989247311828
 precision for class 1000000 is 0.8792803250145096
-falseP1 = 79
-falseP2 = 1866
+falseP1 = 8
+falseP2: 1937
 trueP: 6710
 falseP: 1945
 falseN: 16477
@@ -11136,8 +11136,8 @@ precision for class 10000 is 0.798219584569733
 precision for class 20000 is 0.8720136518771331
 precision for class 30000 is 0.945054945054945
 precision for class 1000000 is 0.8710801393728222
-falseP1 = 86
-falseP2 = 2240
+falseP1 = 4
+falseP2: 2322
 trueP: 6329
 falseP: 2326
 falseN: 16858
@@ -11190,8 +11190,8 @@ precision for class 10000 is 0.757754800590842
 precision for class 20000 is 0.8461538461538461
 precision for class 30000 is 0.9329608938547486
 precision for class 1000000 is 0.8612244897959184
-falseP1 = 93
-falseP2 = 2643
+falseP1 = 4
+falseP2: 2732
 trueP: 5919
 falseP: 2736
 falseN: 17268
@@ -11244,8 +11244,8 @@ precision for class 10000 is 0.7032640949554896
 precision for class 20000 is 0.7967687074829932
 precision for class 30000 is 0.9007633587786259
 precision for class 1000000 is 0.8449794480328832
-falseP1 = 98
-falseP2 = 3166
+falseP1 = 2
+falseP2: 3262
 trueP: 5391
 falseP: 3264
 falseN: 17796
@@ -11298,8 +11298,8 @@ precision for class 10000 is 0.6116788321167883
 precision for class 20000 is 0.7281303602058319
 precision for class 30000 is 0.867704280155642
 precision for class 1000000 is 0.8136792452830188
-falseP1 = 106
-falseP2 = 3758
+falseP1 = 1
+falseP2: 3863
 trueP: 4791
 falseP: 3864
 falseN: 18396
@@ -11352,8 +11352,8 @@ precision for class 10000 is 0.5043859649122807
 precision for class 20000 is 0.637062339880444
 precision for class 30000 is 0.7910750507099391
 precision for class 1000000 is 0.7609208972845336
-falseP1 = 127
-falseP2 = 4480
+falseP1 = 0
+falseP2: 4607
 trueP: 4048
 falseP: 4607
 falseN: 19139
@@ -11406,8 +11406,8 @@ precision for class 10000 is 0.37
 precision for class 20000 is 0.505531914893617
 precision for class 30000 is 0.6680851063829787
 precision for class 1000000 is 0.6757719714964371
-falseP1 = 147
-falseP2 = 5312
+falseP1 = 0
+falseP2: 5459
 trueP: 3196
 falseP: 5459
 falseN: 19991
@@ -11460,8 +11460,8 @@ precision for class 10000 is 0.245014245014245
 precision for class 20000 is 0.34324553950722175
 precision for class 30000 is 0.5099778270509978
 precision for class 1000000 is 0.5385985748218527
-falseP1 = 191
-falseP2 = 6270
+falseP1 = 0
+falseP2: 6461
 trueP: 2194
 falseP: 6461
 falseN: 20993
@@ -11514,8 +11514,8 @@ precision for class 10000 is 0.11188811188811189
 precision for class 20000 is 0.1860662701784197
 precision for class 30000 is 0.3004484304932735
 precision for class 1000000 is 0.3717872086072923
-falseP1 = 228
-falseP2 = 7163
+falseP1 = 0
+falseP2: 7391
 trueP: 1264
 falseP: 7391
 falseN: 21923
@@ -11568,8 +11568,8 @@ precision for class 10000 is 0.024965325936199722
 precision for class 20000 is 0.058524173027989825
 precision for class 30000 is 0.11963882618510158
 precision for class 1000000 is 0.14705882352941177
-falseP1 = 268
-falseP2 = 7953
+falseP1 = 0
+falseP2: 8221
 trueP: 434
 falseP: 8221
 falseN: 22753
@@ -11622,16 +11622,16 @@ precision for class 10000 is 0.002770083102493075
 precision for class 20000 is 0.004244482173174873
 precision for class 30000 is 0.01348314606741573
 precision for class 1000000 is 0.020432692307692308
-falseP1 = 289
-falseP2 = 8319
+falseP1 = 0
+falseP2: 8608
 trueP: 47
 falseP: 8608
 falseN: 23140
 recall = 0.002026997886746884
 precission = 0.005430387059503178
 average prediction error: 25.579857325808273
-Map = 0.6085256468728146
-Rap = 0.22714406666167297
+MaP = 0.6085256468728146
+MaR = 0.22714406666167297
 file: night_snow
 IoU = 0.05
 recall for class 100 is 0.06363636363636363
@@ -11680,8 +11680,8 @@ precision for class 10000 is 0.9125827814569536
 precision for class 20000 is 0.9470858895705522
 precision for class 30000 is 0.9738461538461538
 precision for class 1000000 is 0.8428774254614293
-falseP1 = 66
-falseP2 = 954
+falseP1 = 46
+falseP2: 974
 trueP: 9910
 falseP: 1020
 falseN: 14161
@@ -11736,8 +11736,8 @@ precision for class 10000 is 0.9079118028534371
 precision for class 20000 is 0.9387453874538746
 precision for class 30000 is 0.9746268656716418
 precision for class 1000000 is 0.8474877723432637
-falseP1 = 67
-falseP2 = 1054
+falseP1 = 38
+falseP2: 1083
 trueP: 9809
 falseP: 1121
 falseN: 14262
@@ -11792,8 +11792,8 @@ precision for class 10000 is 0.8996138996138996
 precision for class 20000 is 0.9312092686459088
 precision for class 30000 is 0.9739884393063584
 precision for class 1000000 is 0.8495229835212489
-falseP1 = 68
-falseP2 = 1135
+falseP1 = 33
+falseP2: 1170
 trueP: 9727
 falseP: 1203
 falseN: 14344
@@ -11848,8 +11848,8 @@ precision for class 10000 is 0.8964194373401535
 precision for class 20000 is 0.9301496792587313
 precision for class 30000 is 0.9727011494252874
 precision for class 1000000 is 0.8498924731182795
-falseP1 = 68
-falseP2 = 1197
+falseP1 = 29
+falseP2: 1236
 trueP: 9665
 falseP: 1265
 falseN: 14406
@@ -11903,8 +11903,8 @@ precision for class 10000 is 0.8907242693773825
 precision for class 20000 is 0.9240506329113924
 precision for class 30000 is 0.9728958630527818
 precision for class 1000000 is 0.8494623655913979
-falseP1 = 69
-falseP2 = 1292
+falseP1 = 23
+falseP2: 1338
 trueP: 9569
 falseP: 1361
 falseN: 14502
@@ -11958,8 +11958,8 @@ precision for class 10000 is 0.8878980891719745
 precision for class 20000 is 0.919661733615222
 precision for class 30000 is 0.9687943262411347
 precision for class 1000000 is 0.848991848991849
-falseP1 = 71
-falseP2 = 1424
+falseP1 = 17
+falseP2: 1478
 trueP: 9435
 falseP: 1495
 falseN: 14636
@@ -12013,8 +12013,8 @@ precision for class 10000 is 0.8812260536398467
 precision for class 20000 is 0.9132867132867133
 precision for class 30000 is 0.9686609686609686
 precision for class 1000000 is 0.8482640377196743
-falseP1 = 72
-falseP2 = 1601
+falseP1 = 16
+falseP2: 1657
 trueP: 9257
 falseP: 1673
 falseN: 14814
@@ -12068,8 +12068,8 @@ precision for class 10000 is 0.8727506426735219
 precision for class 20000 is 0.9029126213592233
 precision for class 30000 is 0.9658605974395448
 precision for class 1000000 is 0.8458565908115071
-falseP1 = 78
-falseP2 = 1838
+falseP1 = 12
+falseP2: 1904
 trueP: 9014
 falseP: 1916
 falseN: 15057
@@ -12123,8 +12123,8 @@ precision for class 10000 is 0.8615384615384616
 precision for class 20000 is 0.8977035490605428
 precision for class 30000 is 0.9631205673758865
 precision for class 1000000 is 0.8440721649484536
-falseP1 = 82
-falseP2 = 2121
+falseP1 = 11
+falseP2: 2192
 trueP: 8727
 falseP: 2203
 falseN: 15344
@@ -12178,8 +12178,8 @@ precision for class 10000 is 0.8354591836734694
 precision for class 20000 is 0.8851774530271399
 precision for class 30000 is 0.96
 precision for class 1000000 is 0.8400514579759862
-falseP1 = 85
-falseP2 = 2511
+falseP1 = 9
+falseP2: 2587
 trueP: 8334
 falseP: 2596
 falseN: 15737
@@ -12232,8 +12232,8 @@ precision for class 10000 is 0.7858942065491183
 precision for class 20000 is 0.859515570934256
 precision for class 30000 is 0.9476744186046512
 precision for class 1000000 is 0.8316151202749141
-falseP1 = 94
-falseP2 = 3015
+falseP1 = 9
+falseP2: 3100
 trueP: 7821
 falseP: 3109
 falseN: 16250
@@ -12285,8 +12285,8 @@ precision for class 10000 is 0.7348484848484849
 precision for class 20000 is 0.8227586206896552
 precision for class 30000 is 0.9306784660766961
 precision for class 1000000 is 0.816616444253121
-falseP1 = 105
-falseP2 = 3638
+falseP1 = 8
+falseP2: 3735
 trueP: 7187
 falseP: 3743
 falseN: 16884
@@ -12339,8 +12339,8 @@ precision for class 10000 is 0.6582597730138714
 precision for class 20000 is 0.7700276243093923
 precision for class 30000 is 0.9056316590563166
 precision for class 1000000 is 0.7952688172043011
-falseP1 = 118
-falseP2 = 4375
+falseP1 = 6
+falseP2: 4487
 trueP: 6437
 falseP: 4493
 falseN: 17634
@@ -12393,8 +12393,8 @@ precision for class 10000 is 0.5653266331658291
 precision for class 20000 is 0.691933240611961
 precision for class 30000 is 0.8387096774193549
 precision for class 1000000 is 0.7505376344086021
-falseP1 = 145
-falseP2 = 5248
+falseP1 = 4
+falseP2: 5389
 trueP: 5537
 falseP: 5393
 falseN: 18534
@@ -12447,8 +12447,8 @@ precision for class 10000 is 0.42947103274559195
 precision for class 20000 is 0.5623268698060941
 precision for class 30000 is 0.7669902912621359
 precision for class 1000000 is 0.6749892380542402
-falseP1 = 180
-falseP2 = 6336
+falseP1 = 2
+falseP2: 6514
 trueP: 4414
 falseP: 6516
 falseN: 19657
@@ -12501,8 +12501,8 @@ precision for class 10000 is 0.2718078381795196
 precision for class 20000 is 0.3828178694158076
 precision for class 30000 is 0.6164154103852596
 precision for class 1000000 is 0.5546942291128337
-falseP1 = 224
-falseP2 = 7577
+falseP1 = 2
+falseP2: 7799
 trueP: 3129
 falseP: 7801
 falseN: 20942
@@ -12555,8 +12555,8 @@ precision for class 10000 is 0.12167300380228137
 precision for class 20000 is 0.20804911323328787
 precision for class 30000 is 0.36607142857142855
 precision for class 1000000 is 0.37162451778825545
-falseP1 = 277
-falseP2 = 8868
+falseP1 = 1
+falseP2: 9144
 trueP: 1785
 falseP: 9145
 falseN: 22286
@@ -12609,8 +12609,8 @@ precision for class 10000 is 0.02648171500630517
 precision for class 20000 is 0.061946902654867256
 precision for class 30000 is 0.14234234234234233
 precision for class 1000000 is 0.15371404036066982
-falseP1 = 341
-falseP2 = 9955
+falseP1 = 1
+falseP2: 10295
 trueP: 634
 falseP: 10296
 falseN: 23437
@@ -12663,13 +12663,13 @@ precision for class 10000 is 0.0025284450063211127
 precision for class 20000 is 0.005442176870748299
 precision for class 30000 is 0.012681159420289856
 precision for class 1000000 is 0.021869639794168096
-falseP1 = 365
-falseP2 = 10487
+falseP1 = 0
+falseP2: 10852
 trueP: 78
 falseP: 10852
 falseN: 23993
 recall = 0.0032404137759129243
 precission = 0.007136322049405307
 average prediction error: 33.306632909649885
-Map = 0.6282515529445757
-Rap = 0.2852722975233356
+MaP = 0.6282515529445757
+MaR = 0.2852722975233356

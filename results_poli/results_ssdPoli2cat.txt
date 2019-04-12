@@ -1,7 +1,5 @@
-file: poli
+file: file_poli
 IoU = 0.05
-falseP1 = 57
-falseP2 = 170
 recall for class 100 is 0.0
 recall for class 150 is 0.0
 recall for class 200 is 0.0
@@ -24,7 +22,7 @@ recall for class 7000 is 0.5746872700515084
 recall for class 10000 is 0.7187096774193549
 recall for class 20000 is 0.7264957264957265
 recall for class 30000 is 0.7795216741405082
-recall for class 1000000 is 0.14474972263916988
+recall for class 1000000 is 0.14468446126737583
 precision for class 500 is 1.0
 precision for class 600 is 1.0
 precision for class 700 is 1.0
@@ -41,17 +39,17 @@ precision for class 7000 is 0.8956422018348624
 precision for class 10000 is 0.9456706281833617
 precision for class 20000 is 0.9835336003560302
 precision for class 30000 is 0.9933333333333333
-precision for class 1000000 is 0.9968539325842697
-trueP: 7952
+precision for class 1000000 is 0.9968525179856115
+falseP1 = 11
+falseP2: 216
+trueP: 7951
 falseP: 227
-falseN: 47688
-recall = 0.14291876347951113
-precission = 0.9722459958430126
-average prediction error: 1225.8329161738568
-file: poli
+falseN: 47689
+recall = 0.14290079079798707
+precission = 0.9722426021032037
+average prediction error: 1202.8601221766091
+file: file_poli
 IoU = 0.1
-falseP1 = 63
-falseP2 = 197
 recall for class 100 is 0.0
 recall for class 150 is 0.0
 recall for class 200 is 0.0
@@ -74,7 +72,7 @@ recall for class 7000 is 0.5938189845474614
 recall for class 10000 is 0.7458064516129033
 recall for class 20000 is 0.740302432610125
 recall for class 30000 is 0.7877428998505231
-recall for class 1000000 is 0.1457286432160804
+recall for class 1000000 is 0.14566338184428637
 precision for class 800 is 1.0
 precision for class 1000 is 1.0
 precision for class 1300 is 1.0
@@ -87,17 +85,17 @@ precision for class 7000 is 0.8946784922394678
 precision for class 10000 is 0.9330104923325262
 precision for class 20000 is 0.9795563288386255
 precision for class 30000 is 0.9934024505183789
-precision for class 1000000 is 0.996875
-trueP: 7919
+precision for class 1000000 is 0.9968736042876284
+falseP1 = 7
+falseP2: 253
+trueP: 7918
 falseP: 260
-falseN: 47721
-recall = 0.1423256649892164
-precission = 0.9682112727717325
-average prediction error: 2165.065435461781
-file: poli
+falseN: 47722
+recall = 0.1423076923076923
+precission = 0.9682073856688677
+average prediction error: 911.0188577947639
+file: file_poli
 IoU = 0.15000000000000002
-falseP1 = 72
-falseP2 = 232
 recall for class 100 is 0.0
 recall for class 150 is 0.0
 recall for class 200 is 0.0
@@ -120,7 +118,7 @@ recall for class 7000 is 0.5923473142016188
 recall for class 10000 is 0.7425806451612903
 recall for class 20000 is 0.742603550295858
 recall for class 30000 is 0.8026905829596412
-recall for class 1000000 is 0.14736017751093128
+recall for class 1000000 is 0.14729491613913726
 precision for class 1000 is 1.0
 precision for class 1300 is 1.0
 precision for class 1600 is 1.0
@@ -132,17 +130,17 @@ precision for class 7000 is 0.8904867256637168
 precision for class 10000 is 0.9230152365677626
 precision for class 20000 is 0.9745470232959448
 precision for class 30000 is 0.9799270072992701
-precision for class 1000000 is 0.9969094922737307
-trueP: 7875
+precision for class 1000000 is 0.9969081272084805
+falseP1 = 4
+falseP2: 300
+trueP: 7874
 falseP: 304
-falseN: 47765
-recall = 0.14153486700215673
-precission = 0.9628316420100257
-average prediction error: 2873.761821007688
-file: poli
+falseN: 47766
+recall = 0.14151689432063264
+precission = 0.962827097089753
+average prediction error: 673.3348538259298
+file: file_poli
 IoU = 0.2
-falseP1 = 76
-falseP2 = 239
 recall for class 100 is 0.0
 recall for class 150 is 0.0
 recall for class 200 is 0.0
@@ -165,7 +163,7 @@ recall for class 7000 is 0.5901398086828551
 recall for class 10000 is 0.7419354838709677
 recall for class 20000 is 0.7422748191978962
 recall for class 30000 is 0.8019431988041853
-recall for class 1000000 is 0.14768648436990145
+recall for class 1000000 is 0.14762122299810743
 precision for class 1000 is 1.0
 precision for class 1300 is 1.0
 precision for class 1600 is 1.0
@@ -177,17 +175,17 @@ precision for class 7000 is 0.8901220865704772
 precision for class 10000 is 0.9207365892714171
 precision for class 20000 is 0.9732758620689655
 precision for class 30000 is 0.9754545454545455
-precision for class 1000000 is 0.9969162995594714
-trueP: 7864
+precision for class 1000000 is 0.996914940502424
+falseP1 = 3
+falseP2: 312
+trueP: 7863
 falseP: 315
-falseN: 47776
-recall = 0.1413371675053918
-precission = 0.961486734319599
-average prediction error: 3552.6109555631533
-file: poli
+falseN: 47777
+recall = 0.14131919482386773
+precission = 0.9614820249449744
+average prediction error: 651.5294030427011
+file: file_poli
 IoU = 0.25
-falseP1 = 90
-falseP2 = 244
 recall for class 100 is 0.0
 recall for class 150 is 0.0
 recall for class 200 is 0.0
@@ -210,7 +208,7 @@ recall for class 7000 is 0.5886681383370125
 recall for class 10000 is 0.7335483870967742
 recall for class 20000 is 0.7416173570019724
 recall for class 30000 is 0.8019431988041853
-recall for class 1000000 is 0.14801279122887162
+recall for class 1000000 is 0.1479475298570776
 precision for class 1300 is 1.0
 precision for class 1600 is 1.0
 precision for class 2000 is 1.0
@@ -221,17 +219,17 @@ precision for class 7000 is 0.8898776418242491
 precision for class 10000 is 0.9176755447941889
 precision for class 20000 is 0.9732528041415013
 precision for class 30000 is 0.9754545454545455
-precision for class 1000000 is 0.9916921731526016
-trueP: 7845
+precision for class 1000000 is 0.9916885389326334
+falseP1 = 1
+falseP2: 333
+trueP: 7844
 falseP: 334
-falseN: 47795
-recall = 0.1409956865564342
-precission = 0.9591637119452255
-average prediction error: 4431.019225477329
-file: poli
+falseN: 47796
+recall = 0.14097771387491015
+precission = 0.9591587185130839
+average prediction error: 846.4725588134581
+file: file_poli
 IoU = 0.30000000000000004
-falseP1 = 243
-falseP2 = 256
 recall for class 100 is 0.0
 recall for class 150 is 0.0
 recall for class 200 is 0.0
@@ -266,16 +264,16 @@ precision for class 10000 is 0.9168684422921711
 precision for class 20000 is 0.9713890170742963
 precision for class 30000 is 0.9754545454545455
 precision for class 1000000 is 0.9302707136997539
+falseP1 = 1
+falseP2: 498
 trueP: 7679
 falseP: 499
 falseN: 47961
 recall = 0.1380122214234364
 precission = 0.9389826363414038
-average prediction error: 5107.400178201895
-file: poli
+average prediction error: 580.593846144358
+file: file_poli
 IoU = 0.35000000000000003
-falseP1 = 253
-falseP2 = 274
 recall for class 100 is 0.0
 recall for class 150 is 0.0
 recall for class 200 is 0.0
@@ -310,16 +308,16 @@ precision for class 10000 is 0.9152542372881356
 precision for class 20000 is 0.9703703703703703
 precision for class 30000 is 0.9754545454545455
 precision for class 1000000 is 0.9264405394360441
+falseP1 = 0
+falseP2: 527
 trueP: 7651
 falseP: 527
 falseN: 47989
 recall = 0.13750898634076203
 precission = 0.9355588163365126
-average prediction error: 5663.267277548363
-file: poli
+average prediction error: 537.1757903685772
+file: file_poli
 IoU = 0.4
-falseP1 = 263
-falseP2 = 313
 recall for class 100 is 0.0
 recall for class 150 is 0.0
 recall for class 200 is 0.0
@@ -352,16 +350,16 @@ precision for class 10000 is 0.908433734939759
 precision for class 20000 is 0.9688661710037175
 precision for class 30000 is 0.9744525547445255
 precision for class 1000000 is 0.9241435562805873
+falseP1 = 0
+falseP2: 576
 trueP: 7602
 falseP: 576
 falseN: 48038
 recall = 0.13662832494608196
 precission = 0.9295671313279531
-average prediction error: 6227.6820926234395
-file: poli
+average prediction error: 527.9112506709632
+file: file_poli
 IoU = 0.45
-falseP1 = 281
-falseP2 = 383
 recall for class 100 is 0.0
 recall for class 150 is 0.0
 recall for class 200 is 0.0
@@ -394,16 +392,16 @@ precision for class 10000 is 0.8957836117740652
 precision for class 20000 is 0.9635002339728591
 precision for class 30000 is 0.9662408759124088
 precision for class 1000000 is 0.9196574225122349
+falseP1 = 0
+falseP2: 664
 trueP: 7514
 falseP: 664
 falseN: 48126
 recall = 0.13504672897196263
 precission = 0.9188065541697237
-average prediction error: 6807.751763658182
-file: poli
+average prediction error: 507.1343470859711
+file: file_poli
 IoU = 0.5
-falseP1 = 306
-falseP2 = 465
 recall for class 100 is 0.0
 recall for class 150 is 0.0
 recall for class 200 is 0.0
@@ -435,16 +433,16 @@ precision for class 10000 is 0.8776470588235294
 precision for class 20000 is 0.9533018867924529
 precision for class 30000 is 0.953382084095064
 precision for class 1000000 is 0.916292364230298
+falseP1 = 0
+falseP2: 771
 trueP: 7407
 falseP: 771
 falseN: 48233
 recall = 0.13312365204888568
 precission = 0.9057226705796038
-average prediction error: 7406.565062755745
-file: poli
+average prediction error: 500.4699159854182
+file: file_poli
 IoU = 0.55
-falseP1 = 354
-falseP2 = 608
 recall for class 100 is 0.0
 recall for class 150 is 0.0
 recall for class 200 is 0.0
@@ -476,16 +474,16 @@ precision for class 10000 is 0.8507692307692307
 precision for class 20000 is 0.9365458015267175
 precision for class 30000 is 0.9387186629526463
 precision for class 1000000 is 0.8910569105691057
+falseP1 = 0
+falseP2: 962
 trueP: 7216
 falseP: 962
 falseN: 48424
 recall = 0.12969086987778577
 precission = 0.8823673269748105
-average prediction error: 8025.88831421079
-file: poli
+average prediction error: 423.2791928371683
+file: file_poli
 IoU = 0.6000000000000001
-falseP1 = 416
-falseP2 = 807
 recall for class 100 is 0.0
 recall for class 150 is 0.0
 recall for class 200 is 0.0
@@ -517,16 +515,16 @@ precision for class 10000 is 0.8126410835214447
 precision for class 20000 is 0.9179140511830034
 precision for class 30000 is 0.9159584513692163
 precision for class 1000000 is 0.8528698464025869
+falseP1 = 0
+falseP2: 1223
 trueP: 6955
 falseP: 1223
 falseN: 48685
 recall = 0.125
 precission = 0.8504524333577892
-average prediction error: 8638.668213246727
-file: poli
+average prediction error: 311.59271715106996
+file: file_poli
 IoU = 0.65
-falseP1 = 511
-falseP2 = 1100
 recall for class 100 is 0.0
 recall for class 150 is 0.0
 recall for class 200 is 0.0
@@ -558,16 +556,16 @@ precision for class 10000 is 0.7479492915734527
 precision for class 20000 is 0.8981299212598425
 precision for class 30000 is 0.8785228377065112
 precision for class 1000000 is 0.793504410585405
+falseP1 = 0
+falseP2: 1611
 trueP: 6567
 falseP: 1611
 falseN: 49073
 recall = 0.11802659956865565
 precission = 0.8030080704328687
-average prediction error: 9381.675040553459
-file: poli
+average prediction error: 232.6058425739803
+file: file_poli
 IoU = 0.7000000000000001
-falseP1 = 687
-falseP2 = 1530
 recall for class 100 is 0.0
 recall for class 150 is 0.0
 recall for class 200 is 0.0
@@ -599,16 +597,16 @@ precision for class 10000 is 0.6271929824561403
 precision for class 20000 is 0.8499746578813989
 precision for class 30000 is 0.8328387734915925
 precision for class 1000000 is 0.7136563876651982
+falseP1 = 0
+falseP2: 2217
 trueP: 5961
 falseP: 2217
 falseN: 49679
 recall = 0.1071351545650611
 precission = 0.7289068231841526
-average prediction error: 10518.709095739134
-file: poli
+average prediction error: 183.2855105496097
+file: file_poli
 IoU = 0.75
-falseP1 = 1076
-falseP2 = 2167
 recall for class 100 is 0.0
 recall for class 150 is 0.0
 recall for class 200 is 0.0
@@ -640,16 +638,16 @@ precision for class 10000 is 0.4618155619596542
 precision for class 20000 is 0.7540810953133228
 precision for class 30000 is 0.7353846153846154
 precision for class 1000000 is 0.5701231624950338
+falseP1 = 0
+falseP2: 3243
 trueP: 4935
 falseP: 3243
 falseN: 50705
 recall = 0.08869518332135154
 precission = 0.603448275862069
-average prediction error: 12849.215929924008
-file: poli
+average prediction error: 143.63843859654725
+file: file_poli
 IoU = 0.8
-falseP1 = 1456
-falseP2 = 2838
 recall for class 100 is 0.0
 recall for class 150 is 0.0
 recall for class 200 is 0.0
@@ -681,16 +679,16 @@ precision for class 10000 is 0.34521313766596784
 precision for class 20000 is 0.6364124597207304
 precision for class 30000 is 0.5566448801742919
 precision for class 1000000 is 0.4583002382843527
+falseP1 = 0
+falseP2: 4294
 trueP: 3884
 falseP: 4294
 falseN: 51756
 recall = 0.0698058950395399
 precission = 0.47493274639276106
-average prediction error: 16443.761311258044
-file: poli
+average prediction error: 117.58195642412039
+file: file_poli
 IoU = 0.8500000000000001
-falseP1 = 1972
-falseP2 = 3940
 recall for class 100 is 0.0
 recall for class 150 is 0.0
 recall for class 200 is 0.0
@@ -722,16 +720,16 @@ precision for class 10000 is 0.14249201277955273
 precision for class 20000 is 0.4390532544378698
 precision for class 30000 is 0.35157159487776485
 precision for class 1000000 is 0.26611308817714513
+falseP1 = 0
+falseP2: 5912
 trueP: 2266
 falseP: 5912
 falseN: 53374
 recall = 0.04072609633357297
 precission = 0.27708486182440695
-average prediction error: 28253.33787417868
-file: poli
+average prediction error: 68.179474829071
+file: file_poli
 IoU = 0.9
-falseP1 = 2308
-falseP2 = 4840
 recall for class 100 is 0.0
 recall for class 150 is 0.0
 recall for class 200 is 0.0
@@ -763,16 +761,16 @@ precision for class 10000 is 0.023026315789473683
 precision for class 20000 is 0.27181603773584906
 precision for class 30000 is 0.14792176039119803
 precision for class 1000000 is 0.10172820109976434
+falseP1 = 0
+falseP2: 7148
 trueP: 1030
 falseP: 7148
 falseN: 54610
 recall = 0.018511861969805896
 precission = 0.12594766446563951
-average prediction error: 62183.27121951055
-file: poli
+average prediction error: 25.9278963175361
+file: file_poli
 IoU = 0.9500000000000001
-falseP1 = 2436
-falseP2 = 5634
 recall for class 100 is 0.0
 recall for class 150 is 0.0
 recall for class 200 is 0.0
@@ -804,11 +802,13 @@ precision for class 10000 is 0.001965923984272608
 precision for class 20000 is 0.03001765744555621
 precision for class 30000 is 0.009864364981504316
 precision for class 1000000 is 0.01099332548095799
+falseP1 = 0
+falseP2: 8070
 trueP: 108
 falseP: 8070
 falseN: 55532
 recall = 0.0019410496046010064
 precission = 0.013206162876008804
-average prediction error: 593049.800089897
-Map = 0.7479963963692263
-Rap = 0.10994551439706382
+average prediction error: 5.639385305166026
+MaP = 0.7479952632866098
+MaR = 0.10994078474403116
